@@ -1,40 +1,17 @@
-# Site
-repository: sproogen/jameswgrant
-favicon: images/favicon.ico
-
-version: 2
-
-# Personal info
-name: Swetamber P. Das
-title: University of Massachusetts Boston
-email: swetdas@gmail.com
-
-# Social links
-twitter_username: swetamber
-github_username: SwetamberD
-about_profile_image: images/Das_Swet.png
-about_content: | 
-  I am a theoretical physicist working in the [Green Research Group](https://www.jasonrgreen.net/) at UMass Boston as a research assistant professor. My research interests lie at the **intersection of dynamical systems and non-equilibrium physics**.
-
-  Before moving to Boston, I was a visiting scientist at the Max Planck Institute for the Physics of Complex Systems in Dresden, Germany. From 2017 to 2019, I collaborated with [Prof. Arnd Bäcker](https://tu-dresden.de/mn/physik/itp/cp/die-professur/baecker?set_language=en) at TU Dresden.
-
-  I completed my doctoral studies in physics at the Indian Institute of Technology Madras in Chennai, India. Under the guidance of [Prof. Neelima M. Gupte](https://physics.iitm.ac.in/faculty-inner.php?fuid=55), I defended my thesis in March 2018.
-
-  In addition to my research endeavors, I have a strong interest in organizing scientific outreach programs aimed at engaging the wider community.
-
 content:
   - title: Current research
     layout: list
     content:
-      - layout: left
+      - layout: right  # Update the layout to "right"
         border: weak
         title: Classical density matrix theory
         sub_title: Speed limits for deterministic systems
         caption: September 2020 - Present
-        
         description: |
           With [Prof. Jason R. Green](https://www.jasonrgreen.net/publications), I am currently focused on developing a classical density theory that draws remarkable parallels with the density matrix formulation of quantum mechanics. Our theory is designed to ensure norm-preserving dynamics and is applicable to both Hamiltonian and dissipative systems.
 
           One major breakthrough of this theory is that it has allowed us to obtain *first-ever* <mark>time-information uncertainty relations</mark> for deterministic systems, including those that are relevant to Lyapunov exponents and phase space dissipation rate. Another success is that the theory leads to a <mark>classical speed limit</mark> on thermodynamic entropy production with deep connections with deterministic fluctuation theorems.
-          image: images/Lorenz.png
+
+        image: images/Lorenz.png  # Add the image path here
+        additional_description: |  # Add a separate field for additional description if needed
           A compelling new element that has emerged from this work is a <mark>classical Fisher information</mark> specifically tailored for deterministic dynamics analogous to quantum Fisher information. This information measure directly connects the *phase space geometry with the instability of a dynamical system*.
