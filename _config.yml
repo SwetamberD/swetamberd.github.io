@@ -39,6 +39,7 @@ content:
         title: Classical density matrix theory
         sub_title: Speed limits for deterministic systems
         caption: September 2020 - Present
+        content_image: images/Das_Swet.png
         description: |
           With [Prof. Jason R. Green](https://www.jasonrgreen.net/publications), I am currently focused on developing a classical density theory that draws remarkable parallels with the density matrix formulation of quantum mechanics. Our theory is designed to ensure norm-preserving dynamics and is applicable to both Hamiltonian and dissipative systems.
 
