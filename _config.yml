@@ -25,7 +25,7 @@ linkedin_username: jameswgrant
 about_profile_image: images/Das_Swet.jpg
 about_content: I am a theoretical physicist by training and currently working as research assistant professor in [Green research group] (https://www.jasonrgreen.net/) at Mass Boston. My research interests lie at the intersection of dynamical systems and non-equilibrium physics. 
 
-For my ongoing research with Prof. Jason R. Green, I am currently focused on developing a classical density theory that draws remarkable parallels with the density matrix formulation of quantum mechanics. One major breakthrough of this theory is that it provides a family of **time-information uncertainty relations** for deterministic systems, including those that are relevant to Lyapunov exponents and phase space dissipation rate. Another success is that the theory has led to a **classical speed limit on thermodynamic entropy production**.
+For my ongoing research with Prof. Jason R. Green, I am currently focused on developing a classical density theory that draws remarkable parallels with the density matrix formulation of quantum mechanics. One major breakthrough of this theory is that it provides a family of <mark>time-information uncertainty relations<mark> for deterministic systems, including those that are relevant to Lyapunov exponents and phase space dissipation rate. Another success is that the theory has led to a <mark>classical speed limit on thermodynamic entropy production<mark>.
 
 
 content:
