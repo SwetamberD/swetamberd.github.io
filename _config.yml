@@ -32,8 +32,6 @@ about_content: |
 
 content:
  - title: Current research
-  layout: list
-  content:
     - layout: left
       border: weak
       title: Classical density matrix theory
