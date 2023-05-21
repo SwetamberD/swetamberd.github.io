@@ -22,7 +22,7 @@ github_username: SwetamberD
 
 about_profile_image: images/Das_Swet.png
 about_content: | 
-  I am a theoretical physicist working in [Green Research Group](https://www.jasonrgreen.net/) at UMass Boston as a research assistant professor. My research interests lie at the **intersection of dynamical systems and non-equilibrium physics**.
+  I am a theoretical physicist working in the [Green Research Group](https://www.jasonrgreen.net/) at UMass Boston as a research assistant professor. My research interests lie at the **intersection of dynamical systems and non-equilibrium physics**.
 
   Before moving to Boston, I was a visiting scientist at the Max Planck Institute for the Physics of Complex Systems in Dresden, Germany. From 2017 to 2019, I collaborated with [Prof. Arnd Bäcker](https://tu-dresden.de/mn/physik/itp/cp/die-professur/baecker?set_language=en) at TU Dresden.
 
@@ -31,40 +31,17 @@ about_content: |
   In addition to my research endeavors, I have a strong interest in organizing scientific outreach programs aimed at engaging the wider community.
 
 content:
- - title: Current research
-    - layout: left
-      border: weak
-      title: Classical density matrix theory
-      sub_title: Speed limits for deterministic systems
-      caption: September 2020 - Present
-      description: |
-        With [Prof. Jason R. Green](https://www.jasonrgreen.net/publications), I am currently focused on developing a classical density theory that draws remarkable parallels with the density matrix formulation of quantum mechanics. Our theory is designed to ensure norm-preserving dynamics and is applicable to both Hamiltonian and dissipative systems.
-
-        One major breakthrough of this theory is that it provides a family of <mark>time-information uncertainty relations</mark> for deterministic systems, including those that are relevant to Lyapunov exponents and phase space dissipation rate. Another success is that the theory has led to a <mark>classical speed limit on thermodynamic entropy production</mark>.
-
-        A compelling new element that has emerged from this work is a classical Fisher information specifically tailored for deterministic dynamics analogous to quantum Fisher information. This information measure directly connects the <mark>phase space geometry with the instability of a dynamical system</mark>.
-
-
-
-content:
-  - title: Past research 
+  - title: Current research
+    layout: list
+    content:
       - layout: left
         border: weak
-        title: NatWest
-        sub_title: Frontend Software Engineer
-        caption: August 2017 - July 2021
+        title: Classical density matrix theory
+        sub_title: Speed limits for deterministic systems
+        caption: September 2020 - Present
         description: |
-          Working at NatWest as a front end engineer focusing mostly on a corporate banking product called Bankline.
-          Working as part of a scrum team consiting of 5 developers, 2 testers and a PO/BA I have the oportunity to help drive the team forwards and
-          work with the PO defining what we are building.
+          With [Prof. Jason R. Green](https://www.jasonrgreen.net/publications), I am currently focused on developing a classical density theory that draws remarkable parallels with the density matrix formulation of quantum mechanics. Our theory is designed to ensure norm-preserving dynamics and is applicable to both Hamiltonian and dissipative systems.
 
-          I spend most of my time working on a specifc area of a large application that our team take ownership over. The front end is a <mark>React</mark> app
-          that talks to an API built using a collection of <mark>Java</mark> microservices. I have spent time working in multiple parts of the stack including
-          helping to define our front end architecure to follow best practices to implementing PDF and CSV export in a microservice.
+          One major breakthrough of this theory is that it provides a family of <mark>time-information uncertainty relations</mark> for deterministic systems, including those that are relevant to Lyapunov exponents and phase space dissipation rate. Another success is that the theory has led to a <mark>classical speed limit on thermodynamic entropy production</mark>.
 
-          Last year I took the lead on rebuilding the login journey to our application. I worked with the architects and designers to create something that would
-          be fit for purpose and be easy to maintain for years to come. I then built this to a high standard which lead to a seamless switch over from the previous
-          system with no issues. More recently I have acted as a consultant to external teams and application architects to advise on how we should be building new
-          functionality within our application. I have also built reusable components to the same standards as opensource libraries which have been used by different teams across the bank.
-
-          I enjoy learning about all areas of our application which allows me to
+          A compelling new element that has emerged from this work is a classical Fisher information specifically tailored for deterministic dynamics analogous to quantum Fisher information. This information measure directly connects the <mark>phase space geometry with the instability of a dynamical system</mark>.
