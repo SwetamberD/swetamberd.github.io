@@ -26,9 +26,10 @@ content:
   - title: Current research
     layout: list
     content:
+      - image: images/Lorenz.png
       - layout: left
         border: weak
-        image: images/Lorenz.png
+        
         title: Classical density matrix theory
         sub_title: Speed limits for deterministic systems
         caption: September 2020 - Present
