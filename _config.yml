@@ -6,7 +6,7 @@ version: 2
 
 # Personal info
 name: Swetamber Das
-title: UMass Boston
+title: University of Massachusetts Boston
 email: swetdas@gmail.com
 
 # Social links
@@ -24,13 +24,8 @@ linkedin_username: jameswgrant
 # about_title: About Me
 about_profile_image: images/jg2.jpg
 about_content: |
-  Hi, my name is James Grant, I'm a full stack web developer with over 9 years experience currently specialising in React development.
-  I am currently working for NatWest as a Lead Frontend Software Engineer on their comercial banking platform, Bankline.
+  I am theoretical physicists by training and currently working as Research Assistant Professor in Green group at Mass Boston. My research interests lie at the intersection of dynamical systems and non-equilibrium physics. I am intrigued by the behavior of physical systems that actively interact with their environment, creating captivating phenomena that manifest across various different scales of length, time, and energy. Examples include the formation of a galaxy in the universe,  atmospheric convection, and functioning of biological cells vital for life processes. What makes non-equilibrium dynamics truly compelling is the interplay between time and energy evoked through external influences. This process engenders a remarkably diverse array of time-dependent phases, such as spatiotemporal patterns, collective synchronization, self-assembly, and even the enigmatic time crystals. These dynamic phases have unique properties that pose a multitude of questions regarding their formation, stability, transients, and transport properties. Understanding non-equilibrium phases is crucial for unraveling the complex behavior of physical systems in the real world, from quantum mechanics to biological systems.
 
-  I enjoy making clean and interactive UI that is quick and easy to use whilst also giving users an enjoyable experience.
-  I like working creating clean and efficient developer experiences to allow developers to focus on code quality and the end user experience.
-  I have worked with a range of different languages and frameworks and I am always looking for opportunities to work
-  with something new. The things that I currently have the most experience working with are:
   <mark>ES6 Javascript</mark>,
   <mark>React &amp; Redux</mark>,
   <mark>Node.js</mark>,
