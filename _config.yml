@@ -4,6 +4,7 @@ content:
     content:
       - layout: right  # Update the layout to "right"
         border: weak
+        image: images/Lorenz.png  # Add the image path here
         title: Classical density matrix theory
         sub_title: Speed limits for deterministic systems
         caption: September 2020 - Present
@@ -12,6 +13,4 @@ content:
 
           One major breakthrough of this theory is that it has allowed us to obtain *first-ever* <mark>time-information uncertainty relations</mark> for deterministic systems, including those that are relevant to Lyapunov exponents and phase space dissipation rate. Another success is that the theory leads to a <mark>classical speed limit</mark> on thermodynamic entropy production with deep connections with deterministic fluctuation theorems.
 
-        image: images/Lorenz.png  # Add the image path here
-        additional_description: |  # Add a separate field for additional description if needed
           A compelling new element that has emerged from this work is a <mark>classical Fisher information</mark> specifically tailored for deterministic dynamics analogous to quantum Fisher information. This information measure directly connects the *phase space geometry with the instability of a dynamical system*.
