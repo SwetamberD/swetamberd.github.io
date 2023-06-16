@@ -40,7 +40,6 @@ content:
          
           A compelling new element that has emerged from this work is a <mark>classical Fisher information</mark> specifically tailored for deterministic dynamics analogous to quantum Fisher information. This information measure directly connects the *phase space geometry with the instability of a dynamical system*.
 
-content:
   - title: Past research
     layout: list
     content:
