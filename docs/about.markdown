@@ -1,18 +1,11 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: home
+title: "Home"
+permalink: /
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# Welcome to Our Homepage
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+We are theoretical physicists, broadly interested in complex dynamical systems. A simple yet captivating example of such systems is the double pendulum, which belongs to a large family of complex systems that are found in physics, chemistry, biology, social sciences, and finance. The dynamical behavior of these systems has several fascinating aspects, including deterministic chaos, collective synchronization, and pattern formation. 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+To explore their dynamics, we employ a diverse set of analytical methods and computational tools. Our current research interests lie at the intersection of dynamical systems and non-equilibrium physics.
