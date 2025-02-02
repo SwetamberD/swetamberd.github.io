@@ -4,8 +4,9 @@
 
 layout: home
 ---
+at SRM University - AP, Amaravati, Andhra Pradesh (India). 
 
-
-We are theoretical physicists, broadly interested in complex dynamical systems. A simple yet captivating example of such systems is the double pendulum, which belongs to a large family of complex systems that are found in physics, chemistry, biology, social sciences, and finance. The dynamical behavior of these systems has several fascinating aspects, including deterministic chaos, collective synchronization, and pattern formation. 
-
-To explore their dynamics, we employ a diverse set of analytical methods and computational tools. Our current research interests lie at the intersection of dynamical systems and non-equilibrium physics.
+Our research lies at the intersection of dynamical systems, chaos, and non-equilibrium physics, aiming to understand how physical systems interact with their environment.
+These interactions give rise to emergent phenomena across various scales of length, time, and energy, from the formation of chemical patterns to the functioning of biological cells essential for life.
+Our aim is to understand the fundamental physics of these processes in order to inform and guide experiments toward designing synthetic systems. To tackle these challenges,
+we leverage a diverse set of analytical methods and computational tools.
