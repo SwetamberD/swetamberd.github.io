@@ -14,7 +14,7 @@ permalink: /publications/
     *Maximum speed of dissipation*,  
     [Phys. Rev. E (Letter) 109, L052104](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.109.L052104).
 
-12. Wyeth S. Gibson, Justin T. Mulvey, **Swetamber Das***, Serxho Selmani, Jovany G. Merham, Alex Rakowski, Eric Schwartz, Allon I. Hochbaum, Zhibin Guan, Jason R. Green, and Joseph P. Patterson (2024).  
+12. Wyeth S. Gibson, Justin T. Mulvey, *Swetamber Das**, Serxho Selmani, Jovany G. Merham, Alex Rakowski, Eric Schwartz, Allon I. Hochbaum, Zhibin Guan, Jason R. Green, and Joseph P. Patterson (2024).  
     *Observing the dynamics of an electrochemically driven active material with liquid electron microscopy*,  
     [ACS Nano 18 (18), 11898–11909](https://pubs.acs.org/doi/full/10.1021/acsnano.4c01524). (*Lead theory support*)
 
