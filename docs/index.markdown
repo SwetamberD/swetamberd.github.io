@@ -4,7 +4,7 @@
 
 layout: page
 ---
-[**SRM University - AP, Amaravati, Andhra Pradesh (India)**](https://srmap.edu.in/)
+[**SRM University - AP, Amaravati, Andhra Pradesh (India)**](https://srmap.edu.in/)  
 (A part of **Computational Materials and Soft Matter Physics** group)
 
 Our research lies at the intersection of dynamical systems, chaos, and non-equilibrium physics, aiming to understand how physical systems interact with their environment.
