@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 ---
 
-## Published/Accepted
+### Published/Accepted
 
 14. **Swetamber Das** and Jason R. Green (2025).  
     *Spectral bounds on Lyapunov exponents and entropy production in differentiable dynamical systems*,  
