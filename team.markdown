@@ -7,7 +7,7 @@ permalink: /team_members/
 <div class="profile-container" style="display: flex; align-items: flex-start;">
 
     <img src="{{ site.baseurl }}/images/Das_Swet.jpg" alt="Profile Picture" 
-    style="width: 150px; height: auto; margin-right: 20px;">
+    style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%; margin-right: 20px;">
 
     <div class="profile-text" style="text-align: justify;">
 
