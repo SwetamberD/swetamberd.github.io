@@ -32,7 +32,7 @@ Our theory is designed to ensure norm-preserving dynamics and is applicable to
 both Hamiltonian and dissipative systems.</p>
 
 <div class="figure-container">
-    <img src="images/Lorenz-attractor-speed-limit-400x400.png" alt="Figure 1">
+    <img src="{{ site.baseurl }}/images/Lorenz-attractor-speed-limit-400x400.png" alt="Figure 1">
     <p class="figure-caption"><strong>Figure 1:</strong> How quickly can the growth rate of a local perturbation
     to a system change over time? <a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.L012016">[Das & Green, PRR (Letter), 2023]</a></p>
 </div>
@@ -44,7 +44,7 @@ This theory also leads to the maximum speed on thermodynamic entropy production
 with deep connections with deterministic fluctuation theorems.</p>
 
 <div class="figure-container">
-    <img src="images/Max-speed.png" alt="Figure 2">
+    <img src="{{ site.baseurl }}/images/Max-speed.png" alt="Figure 2">
     <p class="figure-caption"><strong>Figure 2:</strong> What is the minimum entropy production rate that can occur
     in a given time interval? <a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.109.L052104">[Das & Green, PRE (Letter), 2024]</a></p>
 </div>
