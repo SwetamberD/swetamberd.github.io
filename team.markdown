@@ -5,7 +5,7 @@ permalink: /team_members/
 ---
 
 <div class="figure-container">
-    <img src="{{ site.baseurl }}/images/Das_Swet.png" alt="Profile Picture"
+    <img src="{{ site.baseurl }}/images/Das-Swet.png" alt="Profile Picture"
          style="width: 60px; height: 80px; object-fit: cover; border-radius: 50%; margin-right: 20px;">
 </div>
 
