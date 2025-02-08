@@ -26,7 +26,7 @@ permalink: /research-interests/
 
 # Classical Density Theory
 
-<p>I am currently focused on developing a classical density theory that draws
+<p> We are currently focused on developing a classical density theory that draws
 remarkable parallels with the density matrix formulation of quantum mechanics.
 Our theory is designed to ensure norm-preserving dynamics and is applicable to
 both Hamiltonian and dissipative systems.</p>
