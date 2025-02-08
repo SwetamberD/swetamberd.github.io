@@ -11,8 +11,9 @@ remarkable parallels with the density matrix formulation of quantum mechanics.
 Our theory is designed to ensure norm-preserving dynamics and is applicable to
 both Hamiltonian and dissipative systems.
 
-![Figure 1](placeholder1.png)
-*Figure 1: Description of the first figure.*
+![Figure 1](images/Lorenz-attractor-speed-limit-400x400.png)
+*Figure 1: How quickly can the growth rate of a local perturbation to a system,
+change over time? [Das & Green, PRR (Letter), 2023](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.L012016)*
 
 One major finding of this theory is that it has allowed us to obtain first
 time-information uncertainty relations for deterministic systems, including
@@ -20,8 +21,9 @@ those that are relevant to Lyapunov exponents and phase space dissipation rate.
 This theory also leads to the maximum speed on thermodynamic entropy production
 with deep connections with deterministic fluctuation theorems.
 
-![Figure 2](placeholder2.png)
-*Figure 2: Description of the second figure.*
+![Figure 2](images/Max-speed.png)
+*Figure 2: What is the minimum entropy production rate that can occur in a given
+time interval? [Das & Green, PRE (Letter), 2024](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.109.L052104)*
 
 An interesting new element that has emerged from this work is a classical
 Fisher information specifically tailored for deterministic differentiable
