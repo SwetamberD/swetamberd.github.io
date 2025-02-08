@@ -14,9 +14,7 @@ permalink: /team_members/
         <p><strong>Swetamber Das</strong> is an Assistant Professor at <a 
         href="https://www.srmist.edu.in/srm-university-ap" target="_blank">SRM University - AP</a> 
         since July 2024. His research focuses on the interface of dynamical systems 
-        and non-equilibrium physics, with an interest in classical speed limits.</p>
-
-        <p>He completed his PhD under Prof. Neelima M. Gupte at
+        and non-equilibrium physics, with an interest in classical speed limits. He completed his PhD under Prof. Neelima M. Gupte at
         the Indian Institute of Technology Madras in March 2018. He was a Visiting Scientist at the Max Planck Institute for 
         the Physics of Complex Systems Dresden (Germany) from Oct. 2017 to Jan. 2020, 
         followed by a Research Assistant Professor position at the University of Massachusetts Boston (USA) from Sep. 2020 - May 2024 before 
