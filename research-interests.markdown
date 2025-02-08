@@ -28,8 +28,8 @@ permalink: /research-interests/
 
 <p> We are currently focused on developing a classical density theory that draws
 remarkable parallels with the density matrix formulation of quantum mechanics.
-Our theory is designed to ensure norm-preserving dynamics and is applicable to
-both Hamiltonian and dissipative systems.</p>
+Our theory is designed to ensure norm-preserving evolutiion in the tangent space of
+deterministic systems and is applicable to both Hamiltonian and dissipative dynamics.</p>
 
 <div class="figure-container">
     <img src="{{ site.baseurl }}/images/Lorenz-attractor-speed-limit-400x400.png" alt="Figure 1">
