@@ -5,8 +5,8 @@ permalink: /team_members/
 ---
 
 <div class="figure-container">
-    <img src="{{ site.baseurl }}/images/Das_Swet.jpg" alt="Profile Picture" 
-         style="width: 20px; height: 20px; object-fit: cover; border-radius: 50%; margin-right: 20px;">
+    <img src="{{ site.baseurl }}/images/Das_Swet.png" alt="Profile Picture"
+         style="width: 60px; height: 80px; object-fit: cover; border-radius: 50%; margin-right: 20px;">
 </div>
 
 <div class="profile-text" style="text-align: justify;">
@@ -17,8 +17,8 @@ permalink: /team_members/
     and non-equilibrium physics, with an interest in thermodynamic bounds in living 
     systems and theoretical biophysics.</p>
 
-    <p>He completed his PhD under Prof. Neelima Gupte at <a href="https://www.iitm.ac.in/" 
-    target="_blank">IIT Madras</a> in March 2018. He was a Visiting Scientist at the <a 
+    <p>He completed his PhD under Prof. Neelima M. Gupte at <a href="https://www.iitm.ac.in/" 
+    target="_blank">Indian Institute of Technology Madras </a> in March 2018. He was a Visiting Scientist at the <a 
     href="https://www.mpipks-dresden.mpg.de/en" target="_blank">Max Planck Institute for 
     the Physics of Complex Systems Dresden</a> (Germany) from Oct. 2017 to Jan. 2020, 
     followed by a Research Assistant Professor position at the <a href="https://www.umb.edu/" 
