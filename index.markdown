@@ -4,10 +4,6 @@
 
 layout: page
 order: 1
----
----
-layout: page
-order: 1
 title: "SRM University - AP Research"
 ---
 
@@ -23,10 +19,12 @@ title: "SRM University - AP Research"
         }
         .logo {
             position: absolute;
-            left: 0;
-            top: -20px; /* Adjusts the logo's vertical position */
-            margin-left: 20px; /* Shifts the logo slightly to the left */
+            left: 10px; /* Slightly shifts the logo left */
+            top: -10px; /* Slightly shifts the logo up */
             width: 150px; /* Adjust logo size */
+        }
+        .news-links {
+            margin-top: 20px;
         }
     </style>
 </head>
@@ -37,18 +35,20 @@ title: "SRM University - AP Research"
 
         <p>Our research lies at the intersection of dynamical systems, chaos, and non-equilibrium physics, aiming to understand how physical systems interact with their environment. These interactions give rise to emergent phenomena across various scales of length, time, and energy, from the formation of chemical patterns to the functioning of biological cells essential for life. Our aim is to understand the fundamental physics of these processes in order to inform and guide experiments toward designing synthetic systems. To tackle these challenges, we leverage a diverse set of analytical methods and computational tools.</p>
 
-        <p>Check out some of our recent Jekyll posts: 
+        <div class="news-links">
+            <h3>News</h3>
             <ul>
-                <li><a href="{{ site.baseurl }}/posts/post1.html">Post 1</a></li>
-                <li><a href="{{ site.baseurl }}/posts/post2.html">Post 2</a></li>
-                <li><a href="{{ site.baseurl }}/posts/post3.html">Post 3</a></li>
+                <li><a href="{{ site.baseurl }}/posts/post1.html">New Research Collaboration Announced</a></li>
+                <li><a href="{{ site.baseurl }}/posts/post2.html">Recent Breakthrough in Biophysics</a></li>
+                <li><a href="{{ site.baseurl }}/posts/post3.html">Upcoming Conference on Non-Equilibrium Systems</a></li>
             </ul>
-        </p>
+        </div>
 
         <img src="{{ site.baseurl }}/images/srmap-logo.png" alt="SRM University - AP" class="logo">
     </div>
 </body>
 </html>
+
 
 
 
