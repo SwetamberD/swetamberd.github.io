@@ -19,7 +19,7 @@ order: 1
         .logo {
             position: absolute;
             right: 10px; /* Slightly shifts the logo left */
-            top: -5 px; /* Slightly shifts the logo up */
+            top: -10px; /* Slightly shifts the logo up */
             width: 160px; /* Adjust logo size */
         }
         .news-links {
@@ -28,6 +28,7 @@ order: 1
     </style>
 </head>
 <body>
+<img src="{{ site.baseurl }}/images/srmap-logo-2.png" alt="SRM University - AP" class="logo">
     <div class="content">
         <p><strong><a href="https://srmap.edu.in/">SRM University - AP, Amaravati, Andhra Pradesh (India)</a></strong><br>
         (A part of <strong>Computational Materials and Soft Matter Physics</strong> group)</p>
@@ -42,7 +43,7 @@ order: 1
             </div>
         </div>
 
-        <img src="{{ site.baseurl }}/images/srmap-logo-2.png" alt="SRM University - AP" class="logo">
+        
     </div>
 </body>
 </html>
