@@ -19,7 +19,7 @@ order: 1
         .logo {
             position: absolute;
             right: 10px; /* Slightly shifts the logo left */
-            top: -10px; /* Slightly shifts the logo up */
+            top: 0 px; /* Slightly shifts the logo up */
             width: 150px; /* Adjust logo size */
         }
         .news-links {
@@ -39,14 +39,6 @@ order: 1
             <div class="news-item">
                 <div class="news-date">February 9, 2025</div>
                 <div class="news-link"><a href="{{ site.baseurl }}/posts/2025/02/09/post1.html">New Research Collaboration Announced</a></div>
-            </div>
-            <div class="news-item">
-                <div class="news-date">January 25, 2025</div>
-                <div class="news-link"><a href="{{ site.baseurl }}/posts/2025/01/25/post2.html">Recent Breakthrough in Biophysics</a></div>
-            </div>
-            <div class="news-item">
-                <div class="news-date">December 15, 2024</div>
-                <div class="news-link"><a href="{{ site.baseurl }}/posts/2024/12/15/post3.html">Upcoming Conference on Non-Equilibrium Systems</a></div>
             </div>
         </div>
 
