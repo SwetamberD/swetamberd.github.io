@@ -2,7 +2,7 @@
 layout: page
 title: "Contact"
 permalink: /contact/
-order : 6
+weight: 5
 ---
 
 <div class="contact-container" style="text-align: center;">

@@ -2,7 +2,7 @@
 layout: page
 title: "Research Interests"
 permalink: /research-interests/
-order : 2
+weight: 2
 ---
 
 <style>
