@@ -4,7 +4,7 @@
 
 layout: page
 permalink: /About/
-title: "About"
+title: "Dynamical Systems Theory Group"
 weight: 1
 ---
 
