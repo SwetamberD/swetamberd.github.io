@@ -16,8 +16,9 @@ permalink: /contact/
         <p>Assistant Professor,<br>
         Department of Physics,<br>
         SRM University - AP,<br>
-        Amaravati, Guntur, <br>
-        Andhra Pradesh 522 240,<br>
+        Amaravati, <br>
+        Guntur 522 240, <br>
+        Andhra Pradesh,<br>
         India.</p>
 
         <p><strong>Email:</strong> <a href="mailto:swetamber.p@srmap.in">swetamber.p@srmap.in</a></p>
