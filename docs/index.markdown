@@ -3,8 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: "About"
-permalink: /team_members/
+title: "Dynamical Systems Theory Group"
+permalink: /About/
 weight: 1
 ---
 
@@ -12,7 +12,7 @@ weight: 1
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=0.5">
-    <!-- <title>{{ page.title }}</title> -->
+    <! <title>{{ page.title }}</title> >
     <style>
         .content {
             text-align: justify;
