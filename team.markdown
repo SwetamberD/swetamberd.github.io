@@ -17,8 +17,8 @@ order : 2
         He obtained his PhD under the guidance of
         Prof. Neelima M. Gupte at the Indian Institute of Technology Madras in March 2018.
         He was a Visiting Scientist at the Max Planck Institute for the Physics of Complex Systems in Dresden, Germany,
-        from October 2017 to January 2020. Following this, he held the position of Research Assistant Professor at the University
-        of Massachusetts Boston, USA, from September 2020 to May 2024.
+        from Oct. 2017 to Jan. 2020. Following this, he held the position of Research Assistant Professor at the University
+        of Massachusetts Boston, USA, from Sep. 2020 to May 2024.
 
     </div>
 
