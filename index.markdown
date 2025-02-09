@@ -19,8 +19,8 @@ order: 1
         .logo {
             position: absolute;
             right: 10px; /* Slightly shifts the logo left */
-            top: 0 px; /* Slightly shifts the logo up */
-            width: 150px; /* Adjust logo size */
+            top: -5 px; /* Slightly shifts the logo up */
+            width: 160px; /* Adjust logo size */
         }
         .news-links {
             margin-top: 20px;
