@@ -15,10 +15,10 @@ order: 4
     <em>Maximum speed of dissipation</em>, <a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.109.L052104">Phys. Rev. E (Letter) 109, L052104</a>.</li>
 
 <li style="margin-bottom: 20px;">Wyeth S. Gibson, Justin T. Mulvey, <strong>Swetamber Das</strong>, Serxho Selmani, Jovany G. Merham, Alex Rakowski, Eric Schwartz, Allon I. Hochbaum, Zhibin Guan, Jason R. Green, and Joseph P. Patterson (2024).  
-    <em>Observing the dynamics of an electrochemically driven active material with liquid electron microscopy</em>, <a href="https://pubs.acs.org/doi/full/10.1021/acsnano.4c01524">ACS Nano 18 (18), 11898–11909</a>. (*theory support*)</li>
+    <em>Observing the dynamics of an electrochemically driven active material with liquid electron microscopy</em>, <a href="https://pubs.acs.org/doi/full/10.1021/acsnano.4c01524">ACS Nano 18 (18), 11898–11909</a>. (<em>theory support</em>)</li>
 
 <li style="margin-bottom: 20px;">Mohamed Sahbani, <strong>Swetamber Das</strong>, and Jason R. Green (2023).  
-    <em>Classical Fisher information for differentiable dynamical systems</em>, <a href="https://pubs.aip.org/aip/cha/article/33/10/103139/2918637/Classical-Fisher-information-for-differentiable">Chaos 33, 103139</a>. **Featured Article**.</li>
+    <em>Classical Fisher information for differentiable dynamical systems</em>, <a href="https://pubs.aip.org/aip/cha/article/33/10/103139/2918637/Classical-Fisher-information-for-differentiable">Chaos 33, 103139</a>. <em>Featured Article</em>.</li>
 
 <li style="margin-bottom: 20px;"><strong>Swetamber Das</strong> and Jason R. Green (2023).  
     <em>Speed limits on deterministic chaos and dissipation</em>, <a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.L012016">Phys. Rev. Res. (Letter) 5(1):L012016</a>.</li>
