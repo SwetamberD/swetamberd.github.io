@@ -4,7 +4,6 @@
 
 layout: page
 order: 1
-title: "SRM University - AP Research"
 ---
 
 <html lang="en">
@@ -19,7 +18,7 @@ title: "SRM University - AP Research"
         }
         .logo {
             position: absolute;
-            left: 10px; /* Slightly shifts the logo left */
+            right: 10px; /* Slightly shifts the logo left */
             top: -10px; /* Slightly shifts the logo up */
             width: 150px; /* Adjust logo size */
         }
@@ -38,9 +37,7 @@ title: "SRM University - AP Research"
         <div class="news-links">
             <h3>News</h3>
             <ul>
-                <li><a href="{{ site.baseurl }}/posts/post1.html">New Research Collaboration Announced</a></li>
-                <li><a href="{{ site.baseurl }}/posts/post2.html">Recent Breakthrough in Biophysics</a></li>
-                <li><a href="{{ site.baseurl }}/posts/post3.html">Upcoming Conference on Non-Equilibrium Systems</a></li>
+                <li><a href="{{ site.baseurl }}/posts/post1.html">New paptent published </a></li>
             </ul>
         </div>
 
