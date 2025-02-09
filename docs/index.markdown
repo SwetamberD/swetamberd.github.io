@@ -4,7 +4,6 @@
 
 layout: page
 weight: 1
-permalink: /home/
 ---
 
 <html lang="en">
