@@ -38,7 +38,7 @@ order: 1
             <h3>News</h3>
             <div class="news-item">
                 <div class="news-date">February 9, 2025</div>
-                <div class="news-link"><a href="{{ site.baseurl }}/posts/2025/02/09/post1.html">New Research Collaboration Announced</a></div>
+                <div class="news-link"><a href="{{ site.baseurl }}/posts/2025/02/09/post1.html">New Patent Published </a></div>
             </div>
             <div class="news-item">
                 <div class="news-date">January 25, 2025</div>
