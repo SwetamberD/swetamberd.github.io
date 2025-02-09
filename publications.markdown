@@ -7,7 +7,7 @@ order: 4
 
 ### Published/Accepted
 
-<ol reversed>
+<ol reversed style="line-height: 2; text-align: justify;">
 <li><strong>Swetamber Das</strong> and Jason R. Green (2025).  
     <em>Spectral bounds on Lyapunov exponents and entropy production in differentiable dynamical systems</em>, <a href="https://iopscience.iop.org/article/10.1088/1751-8121/ad8f06">J. Phys. A: Math. Theor. 2025 58(3) 035003</a>.</li>
 
