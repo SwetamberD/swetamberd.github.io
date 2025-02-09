@@ -46,7 +46,7 @@ weight: 1
 <div class="news-links">
             <h3>News</h3>
             <div class="news-item">
-                <div class="news-date">February 9, 2025</div>
+                <div class="news-date">February 20, 2025</div>
                 <div class="news-link"><a href="{{ site.baseurl }}/posts/2025/02/09/post1.html">New Patent Published</a></div>
             </div>
         </div>
