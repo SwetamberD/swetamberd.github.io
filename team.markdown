@@ -2,6 +2,7 @@
 layout: page
 title: "Team Members"
 permalink: /team_members/
+order : 2
 ---
 
 <div class="profile-container" style="display: flex; align-items: flex-start;">
