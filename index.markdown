@@ -34,14 +34,16 @@ order: 1
 
         <p>Our research lies at the intersection of dynamical systems, chaos, and non-equilibrium physics, aiming to understand how physical systems interact with their environment. These interactions give rise to emergent phenomena across various scales of length, time, and energy, from the formation of chemical patterns to the functioning of biological cells essential for life. Our aim is to understand the fundamental physics of these processes in order to inform and guide experiments toward designing synthetic systems. To tackle these challenges, we leverage a diverse set of analytical methods and computational tools.</p>
 
-        <div class="news-links">
+<div class="news-links">
             <h3>News</h3>
-            <ul>
-                <li><a href="{{ site.baseurl }}/posts/post1.html">New patent published </a></li>
-            </ul>
+            <div class="news-item">
+                <div class="news-date">February 9, 2025</div>
+                <div class="news-link"><a href="{{ site.baseurl }}/posts/post1.html">New Research Collaboration Announced</a></div>
+            </div>
+           
         </div>
 
-        <img src="{{ site.baseurl }}/images/srmap-logo-2.png" alt="SRM University - AP" class="logo">
+        <img src="{{ site.baseurl }}/images/srmap-logo.png" alt="SRM University - AP" class="logo">
     </div>
 </body>
 </html>
