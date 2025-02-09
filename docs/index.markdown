@@ -3,7 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-permalink: /About/
+permalink: /about/
+title: "About"
 weight: 1
 ---
 
@@ -11,6 +12,7 @@ weight: 1
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=0.5">
+    <title>Dynamical Systems Theory Group</title> <!-- Custom Title for Browser Tab -->
     <style>
         .content {
             text-align: justify;
@@ -28,7 +30,6 @@ weight: 1
     </style>
 </head>
 <body>
-    <h1>Dynamical Systems Theory Group</h1>
     <div class="content">
         <p><img src="{{ site.baseurl }}/images/srmap-logo-2.png" alt="SRM University - AP" class="logo"></p>
         <p>at <strong><a href="https://srmap.edu.in/"> SRM University - AP, Amaravati (India)</a></strong></p>
