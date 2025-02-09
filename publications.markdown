@@ -2,23 +2,29 @@
 layout: page
 title: "Publications"
 permalink: /publications/
-order : 4 
+order: 4 
 ---
 
 ### Published/Accepted
 
+<div style="text-align: justify;">
+
 14. **Swetamber Das** and Jason R. Green (2025).  
-    *Spectral bounds on Lyapunov exponents and entropy production in differentiable dynamical systems*, [J. Phys. A: Math. Theor. 2025 58(3) 035003](https://iopscience.iop.org/article/10.1088/1751-8121/ad8f06).
+    *Spectral bounds on Lyapunov exponents and entropy production in differentiable 
+    dynamical systems*, [J. Phys. A: Math. Theor. 2025 58(3) 035003](https://iopscience.iop.org/article/10.1088/1751-8121/ad8f06).
 
 13. **Swetamber Das** and Jason R. Green (2024).  
     *Maximum speed of dissipation*,  [Phys. Rev. E (Letter) 109, L052104](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.109.L052104).
 
-12. Wyeth S. Gibson, Justin T. Mulvey, **Swetamber Das**, Serxho Selmani, Jovany G. Merham, Alex Rakowski, Eric Schwartz, Allon I. Hochbaum, Zhibin Guan, Jason R. Green, and Joseph P. Patterson (2024).  
+12. Wyeth S. Gibson, Justin T. Mulvey, **Swetamber Das**, Serxho Selmani, Jovany G. Merham, Alex Rakowski, 
+    Eric Schwartz, Allon I. Hochbaum, Zhibin Guan, Jason R. Green, and Joseph P. Patterson (2024).  
     *Observing the dynamics of an electrochemically driven active material with liquid electron microscopy*,
     [ACS Nano 18 (18), 11898–11909](https://pubs.acs.org/doi/full/10.1021/acsnano.4c01524). (*theory support*)
 
 11. Mohamed Sahbani, **Swetamber Das**, and Jason R. Green (2023).  
-    *Classical Fisher information for differentiable dynamical systems*, [Chaos 33, 103139](https://pubs.aip.org/aip/cha/article/33/10/103139/2918637/Classical-Fisher-information-for-differentiable). **Featured Article**.
+    *Classical Fisher information for differentiable dynamical systems*, 
+    [Chaos 33, 103139](https://pubs.aip.org/aip/cha/article/33/10/103139/2918637/Classical-Fisher-information-for-differentiable). 
+    **Featured Article**.
 
 10. **Swetamber Das** and Jason R. Green (2023).  
     *Speed limits on deterministic chaos and dissipation*, [Phys. Rev. Res. (Letter) 5(1):L012016](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.L012016).
@@ -48,4 +54,9 @@ order : 4
     *Dynamics of impurities in three-dimensional-volume preserving map*, [Phys. Rev. E 90, 012906](https://doi.org/10.1103/PhysRevE.90.012906).
 
 1. **Swetamber Das** (2010).  
-    *On an Asymptotic Case of the Complex Lorenz Model*, [Published by IEEE](https://ieeexplore.ieee.org/document/5489582). Proceedings of International Conference on Applied Physics & Mathematics, Kuala Lumpur, Malaysia (May 7–10, 2010), 579-583.
+    *On an Asymptotic Case of the Complex Lorenz Model*, 
+    [Published by IEEE](https://ieeexplore.ieee.org/document/5489582). 
+    Proceedings of International Conference on Applied Physics & Mathematics, Kuala Lumpur, Malaysia 
+    (May 7–10, 2010), 579-583.
+
+</div>
