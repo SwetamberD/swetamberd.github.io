@@ -2,13 +2,13 @@
 layout: page
 title: "Contact"
 permalink: /contact/
-order : 4
+order : 6
 ---
 
 <div class="contact-container" style="text-align: center;">
 
     <img src="{{ site.baseurl }}/images/SRM-AP-photo.jpg" alt="SRM University - AP" 
-         style="width: 600px; height: 600px; object-fit: cover; border-radius: 10px; margin-bottom: 20px;">
+         style="width: 900px; height: 600px; object-fit: cover; border-radius: 10px; margin-bottom: 20px;">
 
     <div class="contact-text" style="text-align: center; font-size: 18px;">
 

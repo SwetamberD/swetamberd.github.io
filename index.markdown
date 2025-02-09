@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
+order : 1
 ---
 [**SRM University - AP, Amaravati, Andhra Pradesh (India)**](https://srmap.edu.in/)  
 (A part of **Computational Materials and Soft Matter Physics** group)
