@@ -32,6 +32,7 @@ weight: 1
 
     <div class="content">
         <p><img src="{{ site.baseurl }}/images/srmap-logo-2.png" alt="SRM University - AP" class="logo"></p>
+        <p> <strong> Dynamical Systems Theory Group </strong></p>
         <p>at <strong><a href="https://srmap.edu.in/"> SRM University - AP, Amaravati (India)</a></strong></p>
         <p>(A part of <strong>Computational Materials and Soft Matter Physics</strong> group)</p>
 
