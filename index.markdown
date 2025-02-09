@@ -31,11 +31,18 @@ order: 1
 
     <div class="content">
         <p><img src="{{ site.baseurl }}/images/srmap-logo-2.png" alt="SRM University - AP" class="logo"></p>
-        <p>at <strong><a href="https://srmap.edu.in/"> SRM University - AP, Amaravati (India).</a></strong></p>
+        <p>at <strong><a href="https://srmap.edu.in/"> SRM University - AP, Amaravati (India)</a></strong></p>
         <p>(A part of <strong>Computational Materials and Soft Matter Physics</strong> group)</p>
 
 
-        <p>Our research lies at the intersection of dynamical systems, chaos, and non-equilibrium physics, aiming to understand how physical systems interact with their environment. These interactions give rise to emergent phenomena across various scales of length, time, and energy, from the formation of chemical patterns to the functioning of biological cells essential for life. Our aim is to understand the fundamental physics of these processes in order to inform and guide experiments toward designing synthetic systems. To tackle these challenges, we leverage a diverse set of analytical methods and computational tools.</p>
+        <p>Our research lies at the intersection of dynamical systems and non-equilibrium physics,
+        aiming to understand how physical systems interact with their environment.
+        These interactions give rise to emergent phenomena across various scales of length, time, and energy,
+        from the formation of self assembly patterns in chemical reactions to the functioning of
+        biological cells essential for life. Our aim is to understand the dynamical mechanism
+        of these processes in order to inform and guide experiments toward
+        designing synthetic systems. To tackle these challenges, we leverage
+        a diverse set of analytical methods and computational tools.</p>
 
 <div class="news-links">
             <h3>News</h3>
