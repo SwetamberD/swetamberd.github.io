@@ -5,11 +5,10 @@
 layout: page
 order: 1
 ---
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=0.5">
     <title>{{ page.title }}</title>
     <style>
         .content {
@@ -34,11 +33,9 @@ order: 1
             <img src="{{ site.baseurl }}/images/srmap-logo.png" alt="SRM University - AP" class="logo">
         </div>
 
-        <p>Our research lies at the intersection of dynamical systems, chaos, and non-equilibrium physics, aiming to understand how physical systems interact with their environment.</p>
-        
-        <p>These interactions give rise to emergent phenomena across various scales of length, time, and energy, from the formation of chemical patterns to the functioning of biological cells essential for life.</p>
-        
-        <p>Our aim is to understand the fundamental physics of these processes in order to inform and guide experiments toward designing synthetic systems. To tackle these challenges, we leverage a diverse set of analytical methods and computational tools.</p>
+        <p> Our research lies at the intersection of dynamical systems, chaos, and non-equilibrium physics,
+        aiming to understand how physical systems interact with their environment.These interactions give rise to emergent phenomena across various scales of length, time, and energy, from the formation of chemical patterns to the functioning of biological cells essential for life.</p>
+        Our aim is to understand the fundamental physics of these processes in order to inform and guide experiments toward designing synthetic systems. To tackle these challenges, we leverage a diverse set of analytical methods and computational tools.</p>
     </div>
 </body>
 </html>
