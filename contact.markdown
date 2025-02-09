@@ -7,7 +7,7 @@ permalink: /contact/
 <div class="contact-container" style="text-align: center;">
 
     <img src="{{ site.baseurl }}/images/SRM-AP-photo.jpg" alt="SRM University - AP" 
-         style="width: 400px; height: auto; object-fit: cover; border-radius: 10px; margin-bottom: 20px;">
+         style="width: 800px; height: 600px; object-fit: cover; border-radius: 10px; margin-bottom: 20px;">
 
     <div class="contact-text" style="text-align: center; font-size: 18px;">
 
