@@ -11,8 +11,7 @@ order : 4
     *Spectral bounds on Lyapunov exponents and entropy production in differentiable dynamical systems*, [J. Phys. A: Math. Theor. 2025 58(3) 035003](https://iopscience.iop.org/article/10.1088/1751-8121/ad8f06).
 
 13. **Swetamber Das** and Jason R. Green (2024).  
-    *Maximum speed of dissipation*,  
-    [Phys. Rev. E (Letter) 109, L052104](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.109.L052104).
+    *Maximum speed of dissipation*,  [Phys. Rev. E (Letter) 109, L052104](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.109.L052104).
 
 12. Wyeth S. Gibson, Justin T. Mulvey, **Swetamber Das**, Serxho Selmani, Jovany G. Merham, Alex Rakowski, Eric Schwartz, Allon I. Hochbaum, Zhibin Guan, Jason R. Green, and Joseph P. Patterson (2024).  
     *Observing the dynamics of an electrochemically driven active material with liquid electron microscopy*, [ACS Nano 18 (18), 11898–11909](https://pubs.acs.org/doi/full/10.1021/acsnano.4c01524). (*Lead theory support*)
