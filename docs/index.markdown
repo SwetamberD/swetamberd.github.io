@@ -34,7 +34,6 @@ weight: 1
         <p>at <strong><a href="https://srmap.edu.in/"> SRM University - AP, Amaravati (India)</a></strong></p>
         <p>(A part of <strong>Computational Materials and Soft Matter Physics</strong> group)</p>
 
-
         <p>Our research lies at the intersection of dynamical systems and non-equilibrium physics,
         aiming to understand how physical systems interact with their environment.
         These interactions give rise to emergent phenomena across various scales of length, time, and energy,
