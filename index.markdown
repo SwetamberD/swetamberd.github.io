@@ -5,7 +5,7 @@
 ---
 layout: page
 order: 1
-title: "SRM University - AP Research"
+title: "Group-page"
 ---
 
 <!DOCTYPE html>
@@ -34,7 +34,7 @@ title: "SRM University - AP Research"
         <div class="header">
             <p><strong><a href="https://srmap.edu.in/">SRM University - AP, Amaravati, Andhra Pradesh (India)</a></strong><br>
             (A part of <strong>Computational Materials and Soft Matter Physics</strong> group)</p>
-            <img src="{{ site.baseurl }}/images/srmap-logo.jpg" alt="SRM University - AP" class="logo">
+            <img src="{{ site.baseurl }}/images/srmap-logo.png" alt="SRM University - AP" class="logo">
         </div>
 
         <p>Our research lies at the intersection of dynamical systems, chaos, and non-equilibrium physics, aiming to understand how physical systems interact with their environment.</p>
