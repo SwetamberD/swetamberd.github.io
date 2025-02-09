@@ -19,7 +19,7 @@ order: 1
         .logo {
             position: absolute;
             right: 10px; /* Slightly shifts the logo left */
-            top: -10px; /* Slightly shifts the logo up */
+            top: -30px; /* Slightly shifts the logo up */
             width: 150px; /* Adjust logo size */
         }
         .news-links {
@@ -37,7 +37,7 @@ order: 1
         <div class="news-links">
             <h3>News</h3>
             <ul>
-                <li><a href="{{ site.baseurl }}/posts/post1.html">New paptent published </a></li>
+                <li><a href="{{ site.baseurl }}/posts/post1.html">New patent published </a></li>
             </ul>
         </div>
 
