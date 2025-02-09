@@ -36,7 +36,7 @@ order: 1
         <p> Our research lies at the intersection of dynamical systems, chaos, and non-equilibrium physics,
         aiming to understand how physical systems interact with their environment.These interactions give
         rise to emergent phenomena across various scales of length, time, and energy, from the formation of
-        chemical patterns to the functioning of biological cells essential for life.</p>
+        chemical patterns to the functioning of biological cells essential for life.
         Our aim is to understand the fundamental physics of these processes in order to inform and guide
         experiments toward designing synthetic systems. To tackle these challenges, we leverage a diverse
         set of analytical methods and computational tools.</p>
