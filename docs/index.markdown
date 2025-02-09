@@ -4,7 +4,7 @@
 
 layout: page
 permalink: /About/
-title: "Dynamical Systems Theory Group"
+title: "About"
 weight: 1
 ---
 
@@ -29,8 +29,9 @@ weight: 1
     </style>
 </head>
 <body>
-
+    <h1>Dynamical Systems Theory Group</h1>
     <div class="content">
+        <h1>Dynamical Systems Theory Group</h1>
         <p><img src="{{ site.baseurl }}/images/srmap-logo-2.png" alt="SRM University - AP" class="logo"></p>
         <p>at <strong><a href="https://srmap.edu.in/"> SRM University - AP, Amaravati (India)</a></strong></p>
         <p>(A part of <strong>Computational Materials and Soft Matter Physics</strong> group)</p>
