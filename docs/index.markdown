@@ -3,7 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-order: 1
+weight: 1
+permalink: /home/
 ---
 
 <html lang="en">

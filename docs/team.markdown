@@ -2,7 +2,7 @@
 layout: page
 title: "Team Members"
 permalink: /team_members/
-weight : 3
+weight : 4
 ---
 
 <div class="profile-container" style="display: flex; align-items: flex-start;">
