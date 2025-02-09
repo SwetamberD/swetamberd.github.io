@@ -2,15 +2,18 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
+---
 layout: page
 order: 1
+title: "SRM University - AP Research"
 ---
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SRM University - AP Research</title>
+    <title>{{ page.title }}</title>
     <style>
         .content {
             text-align: justify;
@@ -18,15 +21,21 @@ order: 1
         .logo {
             float: right;
             margin-left: 20px;
+            margin-top: -10px; /* Adjusts the logo's vertical alignment */
+        }
+        .header {
+            display: flex;
+            align-items: center;
         }
     </style>
 </head>
 <body>
     <div class="content">
-        <p><strong><a href="https://srmap.edu.in/">SRM University - AP, Amaravati, Andhra Pradesh (India)</a></strong><br>
-        (A part of <strong>Computational Materials and Soft Matter Physics</strong> group)</p>
-        
-        <img src="{{ site.baseurl }}/images/srmap-logo.png" alt="SRM University - AP" class="logo">
+        <div class="header">
+            <p><strong><a href="https://srmap.edu.in/">SRM University - AP, Amaravati, Andhra Pradesh (India)</a></strong><br>
+            (A part of <strong>Computational Materials and Soft Matter Physics</strong> group)</p>
+            <img src="{{ site.baseurl }}/images/SRM-AP-photo.jpg" alt="SRM University - AP" class="logo">
+        </div>
 
         <p>Our research lies at the intersection of dynamical systems, chaos, and non-equilibrium physics, aiming to understand how physical systems interact with their environment.</p>
         
@@ -36,3 +45,4 @@ order: 1
     </div>
 </body>
 </html>
+
