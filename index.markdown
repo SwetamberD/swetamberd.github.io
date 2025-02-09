@@ -31,7 +31,7 @@ order: 1
 
     <div class="content">
         <img src="{{ site.baseurl }}/images/srmap-logo-2.png" alt="SRM University - AP" class="logo">
-        <p><strong><a href="https://srmap.edu.in/">SRM University - AP, Amaravati, Andhra Pradesh (India)</a></strong><br>
+        at the <p><strong><a href="https://srmap.edu.in/"> Department of Physics, SRM University - AP, Amaravati, Andhra Pradesh (India)</a></strong><br>
         (A part of <strong>Computational Materials and Soft Matter Physics</strong> group)</p>
 
         <p></p>
