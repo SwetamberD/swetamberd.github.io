@@ -41,7 +41,7 @@ order: 1
             </ul>
         </div>
 
-        <img src="{{ site.baseurl }}/images/srmap-logo.png" alt="SRM University - AP" class="logo">
+        <img src="{{ site.baseurl }}/images/srmap-logo-2.png" alt="SRM University - AP" class="logo">
     </div>
 </body>
 </html>
