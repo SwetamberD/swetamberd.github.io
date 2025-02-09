@@ -12,7 +12,7 @@ order : 2
 
     <div class="profile-text" style="text-align: justify;">
 
-        <strong> Swetamber P. Das  </strong> has been serving as an Assistant Professor at SRM University - AP since July 2024.
+        <strong> Dr. Swetamber P. Das  </strong> has been serving as an Assistant Professor at SRM University - AP since July 2024.
         He is developing expertise in nonlinear dynamics and chaos, with a recent focus on non-equilibrium physics.
         He obtained his PhD under the guidance of
         Prof. Neelima M. Gupte at the Indian Institute of Technology Madras in March 2018.
