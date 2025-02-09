@@ -3,7 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: "About"
 permalink: /About/
 weight: 1
 ---
@@ -12,7 +11,7 @@ weight: 1
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=0.5">
-     <title> Dynamical Systems Theory Group</title> >
+     <title> Dynamical Systems Theory Group </title> >
     <style>
         .content {
             text-align: justify;
