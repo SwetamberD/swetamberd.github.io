@@ -11,7 +11,7 @@ permalink: /contact/
 
     <div class="contact-text" style="text-align: center; font-size: 18px;">
 
-        <p><strong>Swetamber P. Das</strong></p>
+        <p><strong>Dr. Swetamber P. Das</strong></p>
 
         <p>Assistant Professor,<br>
         Department of Physics,<br>
