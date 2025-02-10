@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: ""
+title: "About"
 permalink:/About/
 name: "About"
 weight: 1
@@ -21,7 +21,7 @@ weight: 1
         .logo {
             position: absolute;
             right: 4px; /* Slightly shifts the logo left */
-            top:  -50px; /* Slightly shifts the logo up */
+            top:  -20px; /* Slightly shifts the logo up */
             width: 160px; /* Adjust logo size */
         }
         .news-links {
