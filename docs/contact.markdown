@@ -7,7 +7,7 @@ weight: 5
 
 <div class="contact-container" style="display: flex; justify-content: center; align-items: center;">
 
-    <div class="contact-text" style="font-size: 18px; max-width: 50%; padding-right: 20px;">
+    <div class="contact-text" style="font-size: 18px; max-width: 80%; padding-right: 20px;">
         <p><strong>Dr. Swetamber P. Das</strong></p>
 
         <p>Assistant Professor,<br>
@@ -22,6 +22,6 @@ weight: 5
     </div>
 
     <img src="{{ site.baseurl }}/images/SRM-AP-photo.jpg" alt="SRM University - AP" 
-         style="width: 500px; height: 250px; object-fit: cover; border-radius: 10px; margin-left: 20px;">
+         style="width: 500px; height: 350px; object-fit: cover; border-radius: 10px; margin-left: 20px;">
 
 </div>
