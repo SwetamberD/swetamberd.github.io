@@ -5,7 +5,6 @@
 layout: page
 title: ""
 permalink:/About/
-name: "About"
 weight: 1
 ---
 
