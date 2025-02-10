@@ -18,7 +18,7 @@ weight: 1
         }
         .logo {
             position: absolute;
-            right: 10px; /* Slightly shifts the logo left */
+            right: 12px; /* Slightly shifts the logo left */
             top:  10px; /* Slightly shifts the logo up */
             width: 160px; /* Adjust logo size */
         }
