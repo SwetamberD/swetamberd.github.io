@@ -21,7 +21,7 @@ weight: 1
         .logo {
             position: absolute;
             right: 4px; /* Slightly shifts the logo left */
-            top:  -20px; /* Slightly shifts the logo up */
+            top:   20px; /* Slightly shifts the logo up */
             width: 160px; /* Adjust logo size */
         }
         .news-links {
