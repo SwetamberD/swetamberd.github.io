@@ -4,8 +4,7 @@
 
 layout: page
 title: "About"
-permalink: /about/
-name: "About"
+permalink:/About/
 weight: 1
 ---
 
