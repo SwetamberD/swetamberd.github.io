@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Team Members"
-permalink: /team_members/
+title: "Group Members"
+permalink: /group_members/
 weight : 4
 ---
 
