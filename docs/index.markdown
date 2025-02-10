@@ -4,9 +4,9 @@
 
 layout: page
 title: "About"
-permalink:/About/
+permalink: /about/
 name: "About"
-weight = 1
+weight: 1
 ---
 
 <html lang="en">
