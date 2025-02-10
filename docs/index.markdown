@@ -11,6 +11,7 @@ weight: 1
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=0.5">
+
     <style>
         .content {
             text-align: justify;
@@ -26,6 +27,7 @@ weight: 1
             margin-top: 20px;
         }
     </style>
+<p><img src="{{ site.baseurl }}/images/srmap-logo-2.png" alt="SRM University - AP" class="logo"></p>
 </head>
 <body>
     <div class="content">
