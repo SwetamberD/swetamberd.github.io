@@ -13,7 +13,7 @@ weight : 4
     <div class="profile-text" style="text-align: justify;">
 
         <strong> Dr. Swetamber P. Das  </strong> has been serving as an Assistant Professor at SRM University - AP since July 2024.
-        He is developing expertise in nonlinear dynamics and chaos, with a recent focus on non-equilibrium physics.
+        He is interested  in nonlinear dynamics and chaos, with a recent focus on non-equilibrium physics.
         He obtained his PhD under the guidance of
         Prof. Neelima M. Gupte at the Indian Institute of Technology Madras in March 2018.
         He was a Visiting Scientist at the Max Planck Institute for the Physics of Complex Systems in Dresden, Germany,
