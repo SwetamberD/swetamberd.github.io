@@ -5,6 +5,7 @@
 layout: page
 title: "About"
 permalink:/About/
+weight = 1
 ---
 
 <html lang="en">
