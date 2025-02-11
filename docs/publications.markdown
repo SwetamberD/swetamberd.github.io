@@ -14,7 +14,7 @@ weight: 3
 .scholar-button {
     display: flex;
     align-items: center;
-    background-color: #4285F4; /* Google Blue */
+    background-color: #03fcf8; 
     color: white;
     padding: 10px 15px;
     text-decoration: none;
@@ -30,7 +30,7 @@ weight: 3
 }
 
 .scholar-icon {
-    width: 25px; /* Smaller icon */
+    width: 35px; /* Smaller icon */
     height: auto;
 }
 
