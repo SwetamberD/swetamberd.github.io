@@ -46,15 +46,12 @@ weight: 1
 
 <div class="news-links">
     <h3>News</h3>
-    <div class="news-item">
-        <div class="news-date" style="display: inline-block; margin-right: 10px;">February 14, 2025</div>
-        <div class="news-link" style="display: inline-block;"><a href="https://arxiv.org/abs/your-paper-id">New paper on the arxiv (under review)</a></div>
+    <div class="news-item" style="display: flex; justify-content: space-between; max-width: 600px;">
+        <div class="news-date" style="min-width: 150px;">February 14, 2025</div>
+        <div class="news-link"><a href="https://arxiv.org/abs/your-paper-id">New paper on the arxiv (under review)</a></div>
     </div>
-    <div class="news-item">
-        <div class="news-date" style="display: inline-block; margin-right: 10px;">January 6, 2025</div>
-        <div class="news-link" style="display: inline-block;"><a href="https://iopscience.iop.org/article/10.1088/1751-8121/ad8f06/meta">Paper published</a></div>
+    <div class="news-item" style="display: flex; justify-content: space-between; max-width: 600px;">
+        <div class="news-date" style="min-width: 150px;">January 6, 2025</div>
+        <div class="news-link"><a href="https://iopscience.iop.org/article/10.1088/1751-8121/ad8f06/meta">Paper published</a></div>
     </div>
 </div>
-
-</body>
-</html>
