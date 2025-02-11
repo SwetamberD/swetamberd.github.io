@@ -45,14 +45,16 @@ weight: 1
         a diverse set of analytical methods and computational tools.</p>
 
 <div class="news-links">
-            <h3>News</h3>
-            <div class="news-item">
-                <div class="news-date">February 10, 2025</div>
-               <!-- <div class="news-link"><a href="{{ site.baseurl }}/posts/2025/02/09/post1.html">New Patent Published</a></div> -->
-            </div>
-        </div>
-
-        
+    <h3>News</h3>
+    <div class="news-item">
+        <div class="news-date" style="display: inline-block; margin-right: 10px;">February 14, 2025</div>
+        <div class="news-link" style="display: inline-block;"><a href="https://arxiv.org/abs/your-paper-id">New paper on the arxiv (under review)</a></div>
     </div>
+    <div class="news-item">
+        <div class="news-date" style="display: inline-block; margin-right: 10px;">January 6, 2025</div>
+        <div class="news-link" style="display: inline-block;"><a href="https://iopscience.iop.org/article/10.1088/1751-8121/ad8f06/meta">Paper published</a></div>
+    </div>
+</div>
+
 </body>
 </html>
