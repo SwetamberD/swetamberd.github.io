@@ -14,7 +14,7 @@ weight: 3
 .scholar-button {
     display: flex;
     align-items: center;
-    background-color: #03fcf8; 
+    background-color: #f2f2f2; 
     color: white;
     padding: 10px 15px;
     text-decoration: none;
