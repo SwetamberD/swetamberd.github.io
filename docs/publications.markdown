@@ -15,7 +15,7 @@ weight: 3
     display: flex;
     align-items: center;
     background-color: #f2f2f2; 
-    color: white;
+    color: black;
     padding: 10px 15px;
     text-decoration: none;
     border-radius: 5px;
@@ -35,7 +35,7 @@ weight: 3
 }
 
 .scholar-button:hover {
-    background-color: #357ae8;
+    background-color: #ff4d94;
 }
 </style>
 
