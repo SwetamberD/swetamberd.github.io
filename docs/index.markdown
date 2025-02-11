@@ -48,6 +48,6 @@ weight: 1
     <h2 style="color: green;">News</h2>
     <div class="news-item" style="display: flex; align-items: center; max-width: 600px; gap: 20px;">
         <div class="news-date" style="width: 180px; text-align: left;">January 6, 2025</div>
-        <div class="news-link" style="flex-grow: 1;"><a href="https://iopscience.iop.org/article/10.1088/1751-8121/ad8f06/meta">Paper published in the <em> J. Phys. A: Math. Theor. </em></a></div>
+        <div class="news-link" style="flex-grow: 1;"><a href="https://iopscience.iop.org/article/10.1088/1751-8121/ad8f06/meta">Paper published in <em> J. Phys. A: Math. Theor. </em></a></div>
     </div>
 </div>
