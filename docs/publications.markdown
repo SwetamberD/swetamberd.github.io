@@ -35,7 +35,7 @@ weight: 3
 }
 
 .scholar-button:hover {
-    background-color: #ff4d94;
+    background-color: #ffcccc;
 }
 </style>
 
