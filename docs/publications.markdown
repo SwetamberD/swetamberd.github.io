@@ -4,9 +4,41 @@ title: "Publications"
 permalink: /publications/
 weight: 3
 ---
-<a href="https://scholar.google.com/citations?user=Sb41nz4AAAAJ&view_op=list_works&sortby=pubdate" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" width="100">
+
+<a href="https://scholar.google.com/citations?user=Sb41nz4AAAAJ&view_op=list_works&sortby=pubdate" target="_blank" rel="noopener noreferrer" class="scholar-button">
+    <span class="scholar-text">Google Scholar</span>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" class="scholar-icon">
 </a>
+
+<style>
+.scholar-button {
+    display: flex;
+    align-items: center;
+    background-color: #4285F4; /* Google Blue */
+    color: white;
+    padding: 10px 15px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 20px; /* Bigger text */
+    gap: 10px; /* Space between text and icon */
+    width: fit-content;
+}
+
+.scholar-text {
+    font-size: 20px; /* Adjust text size */
+}
+
+.scholar-icon {
+    width: 25px; /* Smaller icon */
+    height: auto;
+}
+
+.scholar-button:hover {
+    background-color: #357ae8;
+}
+</style>
+
 
 
 ### Published/Accepted
