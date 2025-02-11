@@ -48,10 +48,10 @@ weight: 1
     <h2 style="color: green;">News</h2>
     <div class="news-item" style="display: flex; align-items: center; max-width: 600px; gap: 20px;">
         <div class="news-date" style="width: 150px; text-align: left;">February 14, 2025</div>
-        <div class="news-link" style="flex-grow: 1;"><a href="https://arxiv.org/abs/your-paper-id">New paper on the arxiv (under review)</a></div>
+        <div class="news-link" style="flex-grow: 1;"><a href="https://arxiv.org/abs/your-paper-id"> Latest preprint <em> Phase space contraction rate for classical mixed states </em> available on ArXiv</a></div>
     </div>
     <div class="news-item" style="display: flex; align-items: center; max-width: 600px; gap: 20px;">
         <div class="news-date" style="width: 150px; text-align: left;">January 6, 2025</div>
-        <div class="news-link" style="flex-grow: 1;"><a href="https://iopscience.iop.org/article/10.1088/1751-8121/ad8f06/meta">Paper (open access) published in the <em> J. Phys. A: Math. Theor. </em> (IoP)</a></div>
+        <div class="news-link" style="flex-grow: 1;"><a href="https://iopscience.iop.org/article/10.1088/1751-8121/ad8f06/meta">Paper (open access) published in the <em> J. Phys. A: Math. Theor. </em></a></div>
     </div>
 </div>
