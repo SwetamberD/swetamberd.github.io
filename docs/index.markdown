@@ -4,7 +4,7 @@
 
 layout: page
 title: "About"
-permalink:/About
+permalink: /About
 name: "About"
 weight: 1
 ---
@@ -21,7 +21,7 @@ weight: 1
         .logo {
             position: absolute;
             right: 4px; /* Slightly shifts the logo left */
-            top:   10px; /* Slightly shifts the logo up */
+            top: 10px; /* Slightly shifts the logo up */
             width: 160px; /* Adjust logo size */
         }
         .news-links {
@@ -38,31 +38,34 @@ weight: 1
         <p>Our research lies at the intersection of dynamical systems and non-equilibrium physics,
         aiming to understand how physical systems interact with their environment.
         These interactions give rise to emergent phenomena across various scales of length, time, and energy,
-        from the formation of self assembly patterns in chemical reactions to the functioning of
+        from the formation of self-assembly patterns in chemical reactions to the functioning of
         biological cells essential for life. Our aim is to understand the dynamical mechanism
         of these processes in order to inform and guide experiments toward
         designing synthetic systems. To tackle these challenges, we leverage
         a diverse set of analytical methods and computational tools.</p>
 
-<div class="news-links">
-    <h2 style="color: green;">News</h2>
-    <<div class="news-item" style="max-width: 800px;">
-    <div style="display: flex; align-items: center; gap: 30px;">
-        <div class="news-date" style="width: 200px; text-align: left; font-weight: bold;">February 13, 2025</div>
-        <div class="news-link" style="flex-grow: 1;">
-            <a href="" target="_blank" style="text-decoration: none; color: black;">
-                Paper submitted: <em>Phase space contraction rate for classical mixed states</em>
-            </a>
+        <div class="news-links">
+            <h2 style="color: green;">News</h2>
+            <div class="news-item" style="max-width: 800px;">
+                <div style="display: flex; align-items: center; gap: 30px;">
+                    <div class="news-date" style="width: 200px; text-align: left; font-weight: bold;">February 13, 2025</div>
+                    <div class="news-link" style="flex-grow: 1;">
+                        <a href="" target="_blank" style="text-decoration: none; color: black;">
+                            Paper submitted: <em>Phase space contraction rate for classical mixed states</em>
+                        </a>
+                    </div>
+                </div>
+
+                <div style="display: flex; align-items: center; gap: 30px; margin-top: 10px;">
+                    <div class="news-date" style="width: 200px; text-align: left; font-weight: bold;">January 6, 2025</div>
+                    <div class="news-link" style="flex-grow: 1;">
+                        <a href="https://iopscience.iop.org/article/10.1088/1751-8121/ad8f06/meta" target="_blank" style="text-decoration: none; color: black;">
+                            Paper published in <em>J. Phys. A: Math. Theor.</em>
+                        </a>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
-
-    <div style="display: flex; align-items: center; gap: 30px; margin-top: 10px;">
-        <div class="news-date" style="width: 200px; text-align: left; font-weight: bold;">January 6, 2025</div>
-        <div class="news-link" style="flex-grow: 1;">
-            <a href="https://iopscience.iop.org/article/10.1088/1751-8121/ad8f06/meta" target="_blank" style="text-decoration: none; color: black;">
-                Paper published in <em>J. Phys. A: Math. Theor.</em>
-            </a>
-        </div>
-    </div>
-</div>
-
+</body>
+</html>
