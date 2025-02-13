@@ -47,7 +47,7 @@ weight: 1
 <div class="news-links">
     <h2 style="color: green;">News</h2>
     <div class="news-item" style="max-width: 800px;">
-    <div style="display: flex; align-items: center; gap: 15px;">
+    <div style="display: flex; align-items: center; gap: 5px;">
         <div class="news-date" style="width: 200px; text-align: left; font-weight: bold;">February 13, 2025</div>
         <div class="news-link" style="flex-grow: 1;">
             <a href="" target="_blank" style="text-decoration: none; color: black;">
@@ -56,7 +56,7 @@ weight: 1
         </div>
     </div>
 
-    <div style="display: flex; align-items: center; gap: 15px; margin-top: 10px;">
+    <div style="display: flex; align-items: center; gap: 5px; margin-top: 10px;">
         <div class="news-date" style="width: 200px; text-align: left; font-weight: bold;">January 6, 2025</div>
         <div class="news-link" style="flex-grow: 1;">
             <a href="https://iopscience.iop.org/article/10.1088/1751-8121/ad8f06/meta" target="_blank" style="text-decoration: none; color: black;">
