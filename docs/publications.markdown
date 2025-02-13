@@ -60,7 +60,7 @@ weight: 3
     <li style="margin-bottom: 20px;">
         <div><em>Maximum speed of dissipation</em></div>
         <div><strong>Swetamber Das</strong> and Jason R. Green (2024)</div>
-        <div><a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.109.L052104">Phys. Rev. E (Letter) 109, L052104</a></div>
+        <div><a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.109.L052104">Phys. Rev. E (Letter) 109, L052104.</a></div>
     </li>
 
     <li style="margin-bottom: 20px;">
@@ -72,7 +72,7 @@ weight: 3
     <li style="margin-bottom: 20px;">
         <div><em>Classical Fisher information for differentiable dynamical systems</em></div>
         <div>Mohamed Sahbani, <strong>Swetamber Das</strong>, and Jason R. Green (2023)</div>
-        <div><a href="https://pubs.aip.org/aip/cha/article/33/10/103139/2918637/Classical-Fisher-information-for-differentiable">Chaos 33, 103139.</a> <em>Featured Article</em></div>
+        <div><a href="https://pubs.aip.org/aip/cha/article/33/10/103139/2918637/Classical-Fisher-information-for-differentiable">Chaos 33, 103139.</a> <em>Featured Article.</em></div>
     </li>
 
     <li style="margin-bottom: 20px;">
@@ -132,7 +132,8 @@ weight: 3
     <li style="margin-bottom: 20px;">
         <div><em>On an Asymptotic Case of the Complex Lorenz Model</em></div>
         <div><strong>Swetamber Das</strong> (2010)</div>
-        <div><a href="https://ieeexplore.ieee.org/document/5489582">Proceedings of International Conference on Applied Physics & Mathematics, Kuala Lumpur, Malaysia (May 7–10, 2010), 579-583 (Published by IEEE)</a>.</div>
+        <div>Proceedings of International Conference on Applied Physics & Mathematics, Kuala Lumpur, Malaysia (May 7–10, 2010), 579-583 </div>
+        <div><a href="https://ieeexplore.ieee.org/document/5489582">(Published by IEEE)</a>.</div>
     </li>
 </ol>
 
