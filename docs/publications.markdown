@@ -39,12 +39,14 @@ weight: 3
 }
 </style>
 
-### In Review 
-<li style="margin-bottom: 20px; line-height: 1.5;">
-    <div><em>Phase space contraction rate for classical mixed states</em></div>
-    <div>Mohamed Sahbani, <strong>Swetamber Das</strong>, and Jason R. Green (2025)</div>
-    <div>(Journal reference pending)</div>
-</li>
+### In Review
+<ol reversed style="line-height: 1.5; text-align: justify;">
+    <li style="margin-bottom: 20px; line-height: 1.5;">
+        <div><em>Phase space contraction rate for classical mixed states</em></div>
+        <div>Mohamed Sahbani, <strong>Swetamber Das</strong>, and Jason R. Green (2025)</div>
+        <div>arXiv (to be updated).</div>
+    </li>
+</ol>
 
 ### Published/Accepted
 
