@@ -46,25 +46,23 @@ weight: 1
 
 <div class="news-links">
     <h2 style="color: green;">News</h2>
-    <div class="news-item" style="max-width: 600px;">
-    <div style="display: flex; align-items: center; gap: 20px;">
-        <div class="news-date" style="width: 180px; text-align: left;">February 13, 2025</div>
+    <<div class="news-item" style="max-width: 800px;">
+    <div style="display: flex; align-items: center; gap: 30px;">
+        <div class="news-date" style="width: 200px; text-align: left; font-weight: bold;">February 13, 2025</div>
         <div class="news-link" style="flex-grow: 1;">
-            <a href="" target="_blank">
-                Paper submitted <em>Phase space contraction rate for classical mixed states</em>
+            <a href="" target="_blank" style="text-decoration: none; color: black;">
+                Paper submitted: <em>Phase space contraction rate for classical mixed states</em>
             </a>
         </div>
     </div>
 
-    <div style="display: flex; align-items: center; gap: 20px; margin-top: 10px;">
-        <div class="news-date" style="width: 180px; text-align: left;">January 6, 2025</div>
+    <div style="display: flex; align-items: center; gap: 30px; margin-top: 10px;">
+        <div class="news-date" style="width: 200px; text-align: left; font-weight: bold;">January 6, 2025</div>
         <div class="news-link" style="flex-grow: 1;">
-            <a href="https://iopscience.iop.org/article/10.1088/1751-8121/ad8f06/meta" target="_blank">
+            <a href="https://iopscience.iop.org/article/10.1088/1751-8121/ad8f06/meta" target="_blank" style="text-decoration: none; color: black;">
                 Paper published in <em>J. Phys. A: Math. Theor.</em>
             </a>
         </div>
     </div>
 </div>
 
-    </div>
-</div>
