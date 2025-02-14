@@ -44,7 +44,7 @@ weight: 3
     <li style="margin-bottom: 20px; line-height: 1.5;">
         <div><em>Phase space contraction rate for classical mixed states</em></div>
         <div>Mohamed Sahbani, <strong>Swetamber Das</strong>, and Jason R. Green (2025)</div>
-        <div><a href="https://arxiv.org/abs/2502.09361"> Preprint available now on arXiv. </a></div>
+        <div><a href="https://arxiv.org/abs/2502.09361  target="_blank" style="text-decoration: none; color: black;"> Preprint available now on arXiv. </a></div>
     </li>
 </ol>
 
@@ -54,7 +54,7 @@ weight: 3
     <li style="margin-bottom: 20px;">
         <div><em>Spectral bounds on Lyapunov exponents and entropy production in differentiable dynamical systems</em></div>
         <div><strong>Swetamber Das</strong> and Jason R. Green (2025)</div>
-        <div><a href="https://iopscience.iop.org/article/10.1088/1751-8121/ad8f06">J. Phys. A: Math. Theor. 2025 58(3) 035003.</a></div>
+        <div><a href="https://iopscience.iop.org/article/10.1088/1751-8121/ad8f06"  target="_blank" style="text-decoration: none; color: black;>J. Phys. A: Math. Theor. 2025 58(3) 035003.</a></div>
     </li>
 
     <li style="margin-bottom: 20px;">
