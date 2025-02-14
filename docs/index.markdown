@@ -21,13 +21,28 @@ weight: 1
         .logo {
             position: absolute;
             right: 4px; /* Slightly shifts the logo left */
-            top:   10px; /* Slightly shifts the logo up */
+            top:  10px; /* Slightly shifts the logo up */
             width: 160px; /* Adjust logo size */
+        }
+        a { /* Target all <a> elements (links) */
+            color: #3471eb;
+            text-decoration: none; /* Remove underlines from links */
         }
         .news-links {
             margin-top: 20px;
-            color: #3471eb;
         }
+        .news-item {
+            max-width: 800px;
+        }
+        .news-date {
+            width: 200px;
+            text-align: left;
+            font-weight: bold;
+        }
+        .news-link {
+            flex-grow: 1;
+        }
+
     </style>
 </head>
 <body>
@@ -47,23 +62,26 @@ weight: 1
 
 <div class="news-links">
     <h2 style="color: green;">News</h2>
-    <div class="news-item" style="max-width: 800px;">
+    <div class="news-item" >
     <div style="display: flex; align-items: center; gap: 5px;">
-        <div class="news-date" style="width: 200px; text-align: left; font-weight: bold;">February 13, 2025</div>
-        <div class="news-link" style="flex-grow: 1;">
-            <a href="https://arxiv.org/abs/2502.09361" target="_blank" style="text-decoration: none; color: #3471eb;">
+        <div class="news-date">February 13, 2025</div>
+        <div class="news-link">
+            <a href="https://arxiv.org/abs/2502.09361" target="_blank" >
             New Preprint available
             </a>
         </div>
     </div>
 
     <div style="display: flex; align-items: center; gap: 5px; margin-top: 10px;">
-        <div class="news-date" style="width: 200px; text-align: left; font-weight: bold;">January 6, 2025</div>
-        <div class="news-link" style="flex-grow: 1;">
-            <a href="https://iopscience.iop.org/article/10.1088/1751-8121/ad8f06/meta" target="_blank" style="text-decoration: none; color: #3471eb;">
+        <div class="news-date">January 6, 2025</div>
+        <div class="news-link">
+            <a href="https://iopscience.iop.org/article/10.1088/1751-8121/ad8f06/meta" target="_blank" >
                 Paper published in <em>J. Phys. A: Math. Theor.</em>
             </a>
         </div>
     </div>
 </div>
 
+    </div>
+</body>
+</html>
