@@ -122,17 +122,17 @@ weight: 3
     <li style="margin-bottom: 20px;">
         <div><em>Synchronization in area-preserving maps: Effects of mixed phase space and coherent structures</em></div>
         <div>Sasibhushan Mahata, <strong>Swetamber Das</strong>, and Neelima Gupte (2016)</div>
-        <div><a href="https://doi.org/10.1103/PhysRevE.93.062212">Phys. Rev. E 93, 062212</a></div>
+        <div><a href="https://doi.org/10.1103/PhysRevE.93.062212">Phys. Rev. E 93, 062212.</a></div>
     </li>
 
     <li style="margin-bottom: 20px;">
         <div><em>Dynamics of impurities in three-dimensional-volume preserving map</em></div>
         <div><strong>Swetamber Das</strong> and Neelima Gupte (2014)</div>
-        <div><a href="https://doi.org/10.1103/PhysRevE.90.012906">Phys. Rev. E 90, 012906</a></div>
+        <div><a href="https://doi.org/10.1103/PhysRevE.90.012906">Phys. Rev. E 90, 012906.</a></div>
     </li>
 
     <li style="margin-bottom: 20px;">
         <div><em>On an Asymptotic Case of the Complex Lorenz Model</em></div>
         <div><strong>Swetamber Das</strong> (2010)</div>
-        <div><a href="https://ieeexplore.ieee.org/document/5489582">Published by IEEE</a>. Proceedings of International Conference on Applied Physics & Mathematics, Kuala Lumpur, Malaysia (May 7–10, 2010), 579-583.</div>
+        <div><a href="https://ieeexplore.ieee.org/document/5489582">Published by IEEE</a> Proceedings of International Conference on Applied Physics & Mathematics, Kuala Lumpur, Malaysia (May 7–10, 2010), 579-583.</div>
     </li>
