@@ -1,43 +1,44 @@
 <footer class="site-footer h-card">
-  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+    <data class="u-url" href="{{ "/" | relative_url }}"></data>
 
-  <div class="wrapper">
+    <div class="wrapper">
+        <!-- <h2 class="footer-heading">{{ site.title | escape }}</h2> -->
 
-      <!-- <h2 class="footer-heading">{{ site.title | escape }}</h2> -->
+        <div class="footer-col-wrapper">
+            <div class="footer-col footer-col-1">
+                <ul class="contact-list">
+                    <li class="p-name">
+                        {% if site.author %}
+                        {{ site.author | escape }}
+                        {% else %}
+                        {{ site.title | escape }}
+                        {% endif %}
+                    </li>
+                    {% if site.email %}
+                    <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+                    {% endif %}
+                </ul>
+            </div>
 
-      <div class="footer-col-wrapper">
-          <div class="footer-col footer-col-1">
-              <ul class="contact-list">
-                  <li class="p-name">
-                      {%- if site.author -%}
-                      {{ site.author | escape }}
-                      {%- else -%}
-                      {{ site.title | escape }}
-                      {%- endif -%}
-                  </li>
-                  {%- if site.email -%}
-                  <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-                  {%- endif -%}
-              </ul>
-          </div>
+            <div class="footer-col footer-col-2">
+                {% include social.html %}
+            </div>
 
-          <div class="footer-col footer-col-2">
-              {%- include social.html -%}
-          </div>
+            <div class="footer-col footer-col-3">
+                <p>{{ site.description | escape }}</p>
+            </div>
+        </div>
 
-          <div class="footer-col footer-col-3">
-              <p>{{- site.description | escape -}}</p>
-          </div>
-      </div>
-      <div>
-          <a href="https://statcounter.com/p13087369/" target="_blank">
-              <img src="https://c.statcounter.com/13087369/0/4186899d/0/"
-                   alt="Unique Visitors Count">
-          </a>
-      </div>
+        <div style="display: flex; align-items: center; gap: 10px; margin-top: 20px;">
+            <!-- Sigma (Σ) Summation Icon -->
+            <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Sigma_upper_case.svg"
+                 alt="Unique Visitor Counter (Sigma Σ)" style="height: 40px;">
 
-
-
-  </div>
-
+            <!-- StatCounter Unique Visitor Count -->
+            <a href="https://statcounter.com/p13087369/" target="_blank">
+                <img src="https://c.statcounter.com/13087369/0/4186899d/0/"
+                     alt="Unique Visitors Count">
+            </a>
+        </div>
+    </div>
 </footer>
