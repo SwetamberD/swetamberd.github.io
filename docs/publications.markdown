@@ -132,5 +132,6 @@ weight: 3
     <li style="margin-bottom: 20px;">
         <div><em>On an Asymptotic Case of the Complex Lorenz Model</em></div>
         <div><strong>Swetamber Das</strong> (2010)</div>
-        <div><a href="https://ieeexplore.ieee.org/document/5489582">Published by IEEE</a> Proceedings of International Conference on Applied Physics & Mathematics, Kuala Lumpur, Malaysia (May 7–10, 2010), 579-583.</div>
+        <div> Proceedings of International Conference on Applied Physics & Mathematics, Kuala Lumpur, Malaysia (May 7–10, 2010), 579-583. </div>
+        <div><a href="https://ieeexplore.ieee.org/document/5489582">Published by IEEE</a></div>
     </li>
