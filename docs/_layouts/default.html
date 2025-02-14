@@ -3,18 +3,37 @@
 
   {%- include head.html -%}
 
-  <body>
+<body>
 
     {%- include header.html -%}
 
     <main class="page-content" aria-label="Content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
+        <div class="wrapper">
+            {{ content }}
+        </div>
     </main>
 
     {%- include footer.html -%}
 
-  </body>
+    <!-- Default StatCounter code for My Research Group webpage -->
+    <script type="text/javascript">var sc_project = 13087369;
+        var sc_invisible = 0;
+        var sc_security = "4186899d";
+        var scJsHost = "https://";
+        document.write("<sc" + "ript type='text/javascript' src='" + scJsHost +
+            "statcounter.com/counter/counter.js'></" + "script>");</script>
+
+    <noscript>
+        <div class="statcounter">
+            <a title="Web Analytics" href="https://statcounter.com/" target="_blank">
+                <img class="statcounter" src="https://c.statcounter.com/13087369/0/4186899d/0/"
+                     alt="Web Analytics" referrerPolicy="no-referrer-when-downgrade">
+            </a>
+        </div>
+    </noscript>
+    <!-- End of StatCounter Code -->
+
+</body>
+   
 
 </html>
