@@ -37,7 +37,7 @@ weight: 3
 
 /* Style for publication links */
 .publication-link {
-    color: #3471eb;
+    color: #395dd6;
     text-decoration: none;
 }
 .publication-link:hover {
