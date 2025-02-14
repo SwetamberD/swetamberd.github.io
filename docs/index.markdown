@@ -26,6 +26,7 @@ weight: 1
         }
         .news-links {
             margin-top: 20px;
+            color: #3471eb;
         }
     </style>
 </head>
