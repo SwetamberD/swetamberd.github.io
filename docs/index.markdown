@@ -9,7 +9,7 @@ name: "About"
 weight: 1
 ---
 
-<html lang="en">
+<!DOCTYPE html>  <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=0.5">
@@ -20,13 +20,13 @@ weight: 1
         }
         .logo {
             position: absolute;
-            right: 4px; /* Slightly shifts the logo left */
-            top:  10px; /* Slightly shifts the logo up */
-            width: 160px; /* Adjust logo size */
+            right: 4px;
+            top: 10px;
+            width: 160px;
         }
-        a { /* Target all <a> elements (links) */
+        a {
             color: #3471eb;
-            text-decoration: none; /* Remove underlines from links */
+            text-decoration: none;
         }
         .news-links {
             margin-top: 20px;
@@ -42,7 +42,6 @@ weight: 1
         .news-link {
             flex-grow: 1;
         }
-
     </style>
 </head>
 <body>
@@ -60,27 +59,28 @@ weight: 1
         designing synthetic systems. To tackle these challenges, we leverage
         a diverse set of analytical methods and computational tools.</p>
 
-<div class="news-links">
-    <h2 style="color: green;">News</h2>
-    <div class="news-item" >
-    <div style="display: flex; align-items: center; gap: 5px;">
-        <div class="news-date">February 13, 2025</div>
-        <div class="news-link">
-            <a href="https://arxiv.org/abs/2502.09361" target="_blank" >
-            New Preprint available
-            </a>
-        </div>
-    </div>
+        <div class="news-links">
+            <h2 style="color: green;">News</h2>
+            <div class="news-item">
+                <div style="display: flex; align-items: center; gap: 5px;">
+                    <div class="news-date">February 13, 2025</div>
+                    <div class="news-link">
+                        <a href="https://arxiv.org/abs/2502.09361" target="_blank">
+                            New Preprint available
+                        </a>
+                    </div>
+                </div>
 
-    <div style="display: flex; align-items: center; gap: 5px; margin-top: 10px;">
-        <div class="news-date">January 6, 2025</div>
-        <div class="news-link">
-            <a href="https://iopscience.iop.org/article/10.1088/1751-8121/ad8f06/meta" target="_blank" >
-                Paper published in <em>J. Phys. A: Math. Theor.</em>
-            </a>
+                <div style="display: flex; align-items: center; gap: 5px; margin-top: 10px;">
+                    <div class="news-date">January 6, 2025</div>
+                    <div class="news-link">
+                        <a href="https://iopscience.iop.org/article/10.1088/1751-8121/ad8f06/meta" target="_blank">
+                            Paper published in <em>J. Phys. A: Math. Theor.</em>
+                        </a>
+                    </div>
+                </div>
+            </div>
         </div>
-    </div>
-</div>
 
     </div>
 </body>
