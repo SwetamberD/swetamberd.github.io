@@ -44,7 +44,7 @@ weight: 3
     <li style="margin-bottom: 20px; line-height: 1.5;">
         <div><em>Phase space contraction rate for classical mixed states</em></div>
         <div>Mohamed Sahbani, <strong>Swetamber Das</strong>, and Jason R. Green (2025)</div>
-        <div>arXiv (to be updated).</div>
+        <div><a href="https://arxiv.org/abs/2502.09361"> Preprint available now on arXiv.</div>
     </li>
 </ol>
 

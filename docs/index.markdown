@@ -50,8 +50,9 @@ weight: 1
     <div style="display: flex; align-items: center; gap: 5px;">
         <div class="news-date" style="width: 200px; text-align: left; font-weight: bold;">February 13, 2025</div>
         <div class="news-link" style="flex-grow: 1;">
-            <a href="" target="_blank" style="text-decoration: none; color: black;">
-                Paper submitted: <em>Phase space contraction rate for classical mixed states</em>
+            New Preprint available:
+            <a href="https://arxiv.org/abs/2502.09361" target="_blank" style="text-decoration: none; color: black;">
+                 <em>Phase space contraction rate for classical mixed states</em>
             </a>
         </div>
     </div>
