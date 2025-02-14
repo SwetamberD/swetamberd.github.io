@@ -50,8 +50,8 @@ weight: 1
     <div style="display: flex; align-items: center; gap: 5px;">
         <div class="news-date" style="width: 200px; text-align: left; font-weight: bold;">February 13, 2025</div>
         <div class="news-link" style="flex-grow: 1;">
-            New Preprint available
             <a href="https://arxiv.org/abs/2502.09361" target="_blank" style="text-decoration: none; color: blue;">
+            New Preprint available
             </a>
         </div>
     </div>
