@@ -9,7 +9,6 @@ name: "About"
 weight: 1
 ---
 
-<!DOCTYPE html>  <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=0.5">
@@ -84,4 +83,3 @@ weight: 1
 
     </div>
 </body>
-</html>
