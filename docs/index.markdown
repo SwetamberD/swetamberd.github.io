@@ -45,7 +45,7 @@ weight: 1
 <body>
     <div class="content">
         <p><img src="{{ site.baseurl }}/images/srmap-logo-2.png" alt="SRM University - AP" class="logo"></p>
-        <p style="font-size: 24px; font-weight: bold;">Dynamical Systems Theory Group</p>
+        <p style="font-size: 22px; font-weight: bold;">Dynamical Systems Theory Group</p>
         <p>at <strong><a href="https://srmap.edu.in/"> SRM University - AP, Amaravati (India)</a></strong></p>
 
         <p>Our research lies at the intersection of dynamical systems and non-equilibrium physics,
