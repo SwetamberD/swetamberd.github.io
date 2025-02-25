@@ -14,8 +14,7 @@ weight: 5
         Department of Physics,<br>
         School of Engineering & Sciences,<br>
         SRM University - AP,<br>
-        Amaravati, <br>
-        District - Guntur 522 240, <br>
+        Amaravati 522 240, <br>
         Andhra Pradesh,<br>
         India.</p>
 
