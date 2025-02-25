@@ -18,11 +18,11 @@ weight: 5
         Andhra Pradesh,<br>
         India.</p>
 
-        <p><strong>Office:</strong> <a Cabin 3, Level 2, Homi J. Bhabha block </a></p>
+        <p><strong>Office:</strong> Cabin 3, Level 2, Homi J. Bhabha block </p>
         <p><strong>Email:</strong> <a href="mailto:swetamber.p@srmap.in">swetamber.p@srmap.in</a></p>
     </div>
 
     <img src="{{ site.baseurl }}/images/SRM-AP-photo.jpg" alt="SRM University - AP" 
-         style="width: 500px; height: 450px; object-fit: cover; border-radius: 10px; margin-left: 40px;">
+         style="width: 450px; height: 300px; object-fit: cover; border-radius: 10px; margin-left: 50px;">
 
 </div>
