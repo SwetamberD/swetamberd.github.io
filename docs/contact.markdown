@@ -23,6 +23,6 @@ weight: 5
     </div>
 
     <img src="{{ site.baseurl }}/images/SRM-AP-photo.jpg" alt="SRM University - AP" 
-         style="width: 450px; height: 300px; object-fit: cover; border-radius: 10px; margin-left: 50px;">
+         style="width: 450px; height: 350px; object-fit: cover; border-radius: 10px; margin-left: 50px;">
 
 </div>
