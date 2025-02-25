@@ -8,24 +8,23 @@ permalink:/About
 name: "About"
 weight: 1
 ---
-
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=0.5">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
         .content {
             text-align: justify;
+            hyphens: auto;
             position: relative;
         }
         .logo {
-            position: absolute;
-            right: 4px;
-            top: 10px;
+            float: right;
+            margin-left: 10px;
             width: 160px;
         }
         a {
             color: #3471eb;
-            text-decoration: none;
+            text-decoration: underline;
         }
         .news-links {
             margin-top: 20px;
@@ -52,26 +51,27 @@ weight: 1
         <p>Our research lies at the intersection of dynamical systems and non-equilibrium physics,
         aiming to understand how physical systems interact with their environment.
         These interactions give rise to emergent phenomena across various scales of length, time, and energy,
-        from the formation of self assembly patterns in chemical reactions to the functioning of
-        biological cells essential for life. Our aim is to understand the dynamical mechanism
+        from the formation of self-assembly patterns in chemical reactions to the functioning of
+        biological cells essential for life. Our aim is to understand the dynamical mechanisms
         of these processes in order to inform and guide experiments toward
         designing synthetic systems. To tackle these challenges, we leverage
         a diverse set of analytical methods and computational tools.</p>
 
         <div class="news-links">
             <h2 style="color: green;">News</h2>
-            <div class="news-item">
 
-            <div style="display: flex; align-items: center; gap: 5px;">
+            <div class="news-item">
+                <div style="display: flex; align-items: center; gap: 5px;">
                     <div class="news-date">Summer 2025</div>
                     <div class="news-link">
                         <a href="" target="_blank">
-                            Masters and PhD postions available
+                            Masters and PhD positions available
                         </a>
                     </div>
                 </div>
             </div>
 
+            <div class="news-item" style="margin-top: 10px;">
                 <div style="display: flex; align-items: center; gap: 5px;">
                     <div class="news-date">February 13, 2025</div>
                     <div class="news-link">
@@ -80,8 +80,10 @@ weight: 1
                         </a>
                     </div>
                 </div>
+            </div>
 
-                <div style="display: flex; align-items: center; gap: 5px; margin-top: 10px;">
+            <div class="news-item" style="margin-top: 10px;">
+                <div style="display: flex; align-items: center; gap: 5px;">
                     <div class="news-date">January 6, 2025</div>
                     <div class="news-link">
                         <a href="https://iopscience.iop.org/article/10.1088/1751-8121/ad8f06/meta" target="_blank">
@@ -91,6 +93,6 @@ weight: 1
                 </div>
             </div>
         </div>
-
     </div>
 </body>
+
