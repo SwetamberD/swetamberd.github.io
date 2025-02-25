@@ -62,7 +62,7 @@ weight: 1
 
             <div class="news-item">
                 <div style="display: flex; align-items: center; gap: 5px;">
-                    <div class="news-date">Summer 2025</div>
+                    <div class="news-date"> Feb '25</div>
                     <div class="news-link">
                         <a href="" target="_blank">
                             Masters and PhD positions available
@@ -73,7 +73,7 @@ weight: 1
 
             <div class="news-item" style="margin-top: 10px;">
                 <div style="display: flex; align-items: center; gap: 5px;">
-                    <div class="news-date">February 13, 2025</div>
+                    <div class="news-date">February 13, '25</div>
                     <div class="news-link">
                         <a href="https://arxiv.org/abs/2502.09361" target="_blank">
                             New Preprint available
@@ -84,7 +84,7 @@ weight: 1
 
             <div class="news-item" style="margin-top: 10px;">
                 <div style="display: flex; align-items: center; gap: 5px;">
-                    <div class="news-date">January 6, 2025</div>
+                    <div class="news-date">January 6, '25</div>
                     <div class="news-link">
                         <a href="https://iopscience.iop.org/article/10.1088/1751-8121/ad8f06/meta" target="_blank">
                             Paper published in <em>J. Phys. A: Math. Theor.</em>
