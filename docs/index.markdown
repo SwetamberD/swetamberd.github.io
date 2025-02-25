@@ -10,7 +10,7 @@ weight: 1
 ---
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=0.8">
     <style>
         .content {
             text-align: justify;
