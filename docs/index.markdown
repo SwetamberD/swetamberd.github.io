@@ -30,7 +30,7 @@ weight: 1
             margin-top: 20px;
         }
         .news-item {
-            max-width: 800px;
+            max-width: 600px;
         }
         .news-date {
             width: 200px;
@@ -61,8 +61,8 @@ weight: 1
             <h2 style="color: green;">News</h2>
 
             <div class="news-item">
-                <div style="display: flex; align-items: center; gap: 3px;">
-                    <div class="news-date"> Feb. '25</div>
+                <div style="display: flex; align-items: center; gap: 5px;">
+                    <div class="news-date"> February '25</div>
                     <div class="news-link">
                         <a href="" target="_blank">
                             Masters and PhD positions available
