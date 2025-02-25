@@ -69,6 +69,7 @@ weight: 1
                         </a>
                     </div>
                 </div>
+
                 <div style="display: flex; align-items: center; gap: 5px;">
                     <div class="news-date">February 13, 2025</div>
                     <div class="news-link">
