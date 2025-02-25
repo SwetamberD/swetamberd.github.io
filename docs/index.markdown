@@ -33,7 +33,7 @@ weight: 1
             max-width: 600px;
         }
         .news-date {
-            width: 100px;
+            width: 120px;
             text-align: left;
             font-weight: bold;
         }
@@ -62,7 +62,7 @@ weight: 1
 
             <div class="news-item">
                 <div style="display: flex; align-items: center; gap: 5px;">
-                    <div class="news-date"> February '25</div>
+                    <div class="news-date"> Feb. '25</div>
                     <div class="news-link">
                         <a href="" target="_blank">
                             Masters and PhD positions available
