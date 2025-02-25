@@ -33,7 +33,7 @@ weight: 1
             max-width: 600px;
         }
         .news-date {
-            width: 200px;
+            width: 100px;
             text-align: left;
             font-weight: bold;
         }
