@@ -16,7 +16,7 @@ weight: 5
         Amaravati 522 240, <br>
         Andhra Pradesh, India.</p>
 
-        <p><strong>Office:</strong> Homi J. Bhabha block <br>
+        <p><strong>Office:</strong> Homi Bhabha block, <br>
          Level 2, Cabin 3.</p>
         <p><strong>Email:</strong> <a href="mailto:swetamber.p@srmap.in">swetamber.p@srmap.in</a></p>
     </div>
