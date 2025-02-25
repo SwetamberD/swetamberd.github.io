@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Team"
-permalink: /group_members/
+permalink: /team/
 weight : 4
 ---
 
