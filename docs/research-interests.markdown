@@ -25,9 +25,9 @@ weight: 2
     }
 </style>
 
-# Nonlinear Dynamics and Chaos, Non-equilibrium Physics
+<h2><u>Nonlinear Dynamics and Chaos</u>, <u>Non-equilibrium Physics</u></h2>
 
-## Classical Density Theory ##
+<h3>Classical Speed Limits</h3>
 
 <p> We are currently focused on developing a classical density theory that draws
 remarkable parallels with the density matrix formulation of quantum mechanics.
