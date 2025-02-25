@@ -18,6 +18,7 @@ weight: 5
         Andhra Pradesh,<br>
         India.</p>
 
+        <p><strong>Office:</strong> <a Cabin 3, Level 2, Homi J. Bhabha block </a></p>
         <p><strong>Email:</strong> <a href="mailto:swetamber.p@srmap.in">swetamber.p@srmap.in</a></p>
     </div>
 
