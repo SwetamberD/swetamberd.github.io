@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Group Members"
+title: "Team"
 permalink: /group_members/
 weight : 4
 ---
