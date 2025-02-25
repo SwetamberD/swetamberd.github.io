@@ -7,7 +7,7 @@ weight: 5
 
 <div class="contact-container" style="display: flex; justify-content: center; align-items: center;">
 
-    <div class="contact-text" style="font-size: 18px; max-width: 80%; padding-right: 20px;">
+    <div class="contact-text" style="font-size: 16px; max-width: 80%; padding-right: 20px;">
         <p><strong>Dr. Swetamber P. Das</strong></p>
 
         <p>Assistant Professor,<br>
