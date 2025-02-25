@@ -12,7 +12,6 @@ weight: 5
 
         <p>Assistant Professor,<br>
         Department of Physics,<br>
-        School of Engineering & Sciences,<br>
         SRM University - AP,<br>
         Amaravati 522 240, <br>
         Andhra Pradesh, India.</p>
