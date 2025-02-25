@@ -57,7 +57,7 @@ weight: 1
         designing synthetic systems. To tackle these challenges, we leverage
         a diverse set of analytical methods and computational tools.</p>
 
-        <p><span style="color: #42adf5;"> We currently have undergraduate, master's, and PhD positions available. Please reach out.</span></p>
+        <p><span style="color: #f54295;"> We currently have undergraduate, master's, and PhD positions available. Please reach out.</span></p>
 
         <div class="news-links">
             <h2 style="color: green;">News</h2>
