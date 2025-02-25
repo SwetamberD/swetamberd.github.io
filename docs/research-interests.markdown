@@ -27,7 +27,7 @@ weight: 2
 
 # Nonlinear Dynamics and Chaos, Non-equilibrium Physics
 
-<h3 lassical Density Theory /h3>
+## Classical Density Theory ##
 
 <p> We are currently focused on developing a classical density theory that draws
 remarkable parallels with the density matrix formulation of quantum mechanics.

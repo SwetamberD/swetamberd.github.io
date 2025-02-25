@@ -61,14 +61,16 @@ weight: 1
         <div class="news-links">
             <h2 style="color: green;">News</h2>
             <div class="news-item">
+
             <div style="display: flex; align-items: center; gap: 5px;">
                     <div class="news-date">Summer 2025</div>
                     <div class="news-link">
-                        <a href="https://arxiv.org/abs/2502.09361" target="_blank">
+                        <a href="" target="_blank">
                             Masters and PhD postions available
                         </a>
                     </div>
                 </div>
+            </div>
 
                 <div style="display: flex; align-items: center; gap: 5px;">
                     <div class="news-date">February 13, 2025</div>
