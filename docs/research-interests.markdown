@@ -25,8 +25,7 @@ weight: 2
     }
 </style>
 
-<h3><u>Nonlinear Dynamics and Chaos</u></h3>,
-<h3><u>Non-equilibrium Physics</u></h3>
+<h3><u>Nonlinear Dynamics and Chaos</u>,<u>Non-equilibrium Physics</u></h3>
 
 <h4 style="margin-top: 20px;">Classical Speed Limits</h4>
 
