@@ -53,7 +53,7 @@ weight: 1
         These interactions give rise to emergent phenomena across various scales of length, time, and energy,
         from the formation of self-assembly patterns in chemical reactions to the functioning of
         biological cells essential for life. Our aim is to understand the dynamical mechanisms
-        of these processes in order to inform and guide experiments toward
+        of these processes in order to inform experiments toward
         designing synthetic systems. To tackle these challenges, we leverage
         a diverse set of analytical methods and computational tools.</p>
 
