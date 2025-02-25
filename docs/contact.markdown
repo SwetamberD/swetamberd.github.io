@@ -15,8 +15,7 @@ weight: 5
         School of Engineering & Sciences,<br>
         SRM University - AP,<br>
         Amaravati 522 240, <br>
-        Andhra Pradesh,<br>
-        India.</p>
+        Andhra Pradesh, India.</p>
 
         <p><strong>Office:</strong> Cabin 3, Level 2, Homi J. Bhabha block </p>
         <p><strong>Email:</strong> <a href="mailto:swetamber.p@srmap.in">swetamber.p@srmap.in</a></p>
