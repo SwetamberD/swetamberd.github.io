@@ -12,9 +12,10 @@ weight: 5
 
         <p>Assistant Professor,<br>
         Department of Physics,<br>
+        School of Engineering & Sciences,<br>
         SRM University - AP,<br>
         Amaravati, <br>
-        Guntur 522 240, <br>
+        District - Guntur 522 240, <br>
         Andhra Pradesh,<br>
         India.</p>
 
