@@ -28,7 +28,7 @@ weight : 4
 <!-- Profile: Ms. Jasmine Suresh -->
 <div class="profile-container" style="display: flex; align-items: flex-start; gap: 20px; max-width: 800px;">
     <img src="{{ site.baseurl }}/images/Jasmine.jpg" alt="Profile Picture"
-         style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%; flex-shrink: 0;margin-top: -10px;">
+         style="width: 180px; height: 180px; object-fit: cover; object-position: center bottom; border-radius: 50%; flex-shrink: 0;margin-top: -10px;">
 
     <div class="profile-text" style="text-align: justify; margin-top: 25px;">
         <strong>Ms. Jasmine Suresh</strong> is an undergraduate student pursuing a Physics honors degree at SRM University - AP.
