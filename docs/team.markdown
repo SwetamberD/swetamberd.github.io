@@ -35,3 +35,8 @@ weight : 4
         She joined the group in Feb. 2025.
     </div>
 </div>
+
+<!-- Gray Separator Line -->
+<div style="max-width: 800px; margin: 20px auto;">
+    <hr style="border: 1px solid gray;">
+</div>
