@@ -30,7 +30,7 @@ weight : 4
     <img src="{{ site.baseurl }}/images/Jasmine.jpg" alt="Profile Picture"
          style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%; flex-shrink: 0;margin-top: -10px;">
 
-    <div class="profile-text" style="text-align: justify; margin-top: 10px;">
+    <div class="profile-text" style="text-align: justify; margin-top: 25px;">
         <strong>Ms. Jasmine Suresh</strong> is an undergraduate student pursuing a Physics honors degree at SRM University - AP.
         She joined the group in Feb. 2025.
     </div>
