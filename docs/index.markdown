@@ -64,6 +64,17 @@ weight: 1
 
             <div class="news-item" style="margin-top: 10px;">
                 <div style="display: flex; align-items: center; gap: 5px;">
+                    <div class="news-date"> March 7 </div>
+                    <div class="news-link">
+                        <a href="" target="_blank">
+                            New patent published
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="news-item" style="margin-top: 10px;">
+                <div style="display: flex; align-items: center; gap: 5px;">
                     <div class="news-date">Feb. 13 </div>
                     <div class="news-link">
                         <a href="https://arxiv.org/abs/2502.09361" target="_blank">
