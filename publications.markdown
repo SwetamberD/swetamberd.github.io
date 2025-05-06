@@ -8,6 +8,9 @@ weight: 3
 ### Published/Accepted
 
 <ol reversed style="line-height: 1.5; text-align: justify;">
+<li style="margin-bottom: 20px;">Mohamed Sahbani, <strong> Swetamber Das</strong>, and Jason R. Green (2025).  
+    <em>Phase-space contraction rate for classical mixed states</em>, <a href="https://pubs.aip.org/aip/cha/article/33/10/103139/2918637/Classical-Fisher-information-for-differentiable"> Phys. Rev. E <em>(to appear)</em>.</li>
+
 <li style="margin-bottom: 20px;"><strong>Swetamber Das</strong> and Jason R. Green (2025).  
     <em>Spectral bounds on Lyapunov exponents and entropy production in differentiable dynamical systems</em>, <a href="https://iopscience.iop.org/article/10.1088/1751-8121/ad8f06">J. Phys. A: Math. Theor. 2025 58(3) 035003</a>.</li>
 
