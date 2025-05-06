@@ -2,20 +2,27 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
+---
 layout: page
 title: "About"
-permalink:/About
+permalink: /About
 name: "About"
 weight: 1
 ---
+<!DOCTYPE html>
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=0.8">
+    <title>About</title>
     <style>
         .content {
             text-align: justify;
             hyphens: auto;
             position: relative;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
         }
         .logo {
             float: right;
@@ -29,16 +36,33 @@ weight: 1
         .news-links {
             margin-top: 20px;
         }
+        .news-links h2 {
+            color: #663300;
+            margin-bottom: 15px;
+        }
         .news-item {
             max-width: 600px;
+            margin-top: 10px;
+        }
+        .news-item > div {
+            display: flex;
+            align-items: center;
+            gap: 15px; /* Increased gap for more space between date and entry */
         }
         .news-date {
-            width: 120px;
+            width: 100px; /* Adjusted for alignment */
             text-align: left;
             font-weight: bold;
         }
         .news-link {
             flex-grow: 1;
+        }
+        .news-link a {
+            color: #0066cc;
+            text-decoration: none;
+        }
+        .news-link a:hover {
+            text-decoration: underline;
         }
     </style>
 </head>
@@ -59,52 +83,53 @@ weight: 1
 
         <p><span style="color: #006600;"> We currently have bachelor's, master's, and PhD positions available. If interested, please reach out to discuss potential projects.</span></p>
 
-            <div class="news-links">
-        <h2>News</h2>
+        <div class="news-links">
+            <h2>News</h2>
 
-        <div class="news-item">
-            <div>
-                <div class="news-date">May 5, 2025</div>
-                <div class="news-link">
-                    <a href="https://journals.aps.org/pre/" target="_blank">
-                        Paper accepted in <em>Phys. Rev. E</em>
-                    </a>
+            <div class="news-item">
+                <div>
+                    <div class="news-date">May 5</div>
+                    <div class="news-link">
+                        <a href="https://journals.aps.org/pre/accepted/2a07aRd8Oa413921248217d30aec1de3eb6fbd17f" target="_blank">
+                            Paper accepted in <em>Phys. Rev. E</em>
+                        </a>
+                    </div>
                 </div>
             </div>
-        </div>
 
-        <div class="news-item">
-            <div>
-                <div class="news-date">March 7, 2025</div>
-                <div class="news-link">
-                    <a href="https://patents.google.com/" target="_blank">
-                        New patent published
-                    </a>
+            <div class="news-item">
+                <div>
+                    <div class="news-date">March 7</div>
+                    <div class="news-link">
+                        <a href="https://patents.google.com/" target="_blank">
+                            New patent published
+                        </a>
+                    </div>
                 </div>
             </div>
-        </div>
 
-        <div class="news-item">
-            <div>
-                <div class="news-date">Feb 13, 2025</div>
-                <div class="news-link">
-                    <a href="https://arxiv.org/abs/2502.09361" target="_blank">
-                        New Preprint available
-                    </a>
+            <div class="news-item">
+                <div>
+                    <div class="news-date">Feb 13</div>
+                    <div class="news-link">
+                        <a href="https://arxiv.org/abs/2502.09361" target="_blank">
+                            New Preprint available
+                        </a>
+                    </div>
                 </div>
             </div>
-        </div>
 
-        <div class="news-item">
-            <div>
-                <div class="news-date">Jan 6, 2025</div>
-                <div class="news-link">
-                    <a href="https://iopscience.iop.org/article/10.1088/1751-8121/ad8f06/meta" target="_blank">
-                        Paper published in <em>J. Phys. A: Math. Theor.</em>
-                    </a>
+            <div class="news-item">
+                <div>
+                    <div class="news-date">Jan 6</div>
+                    <div class="news-link">
+                        <a href="https://iopscience.iop.org/article/10.1088/1751-8121/ad8f06/meta" target="_blank">
+                            Paper published in <em>J. Phys. A: Math. Theor.</em>
+                        </a>
+                    </div>
                 </div>
             </div>
         </div>
     </div>
 </body>
-
+</html>
