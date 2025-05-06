@@ -59,50 +59,49 @@ weight: 1
 
         <p><span style="color: #006600;"> We currently have bachelor's, master's, and PhD positions available. If interested, please reach out to discuss potential projects.</span></p>
 
-        <div class="news-links">
-            <h2 style="color: #663300;">News</h2>
+            <div class="news-links">
+        <h2>News</h2>
 
-            <div class="news-item" style="margin-top: 10px;">
-                <div style="display: flex; align-items: center; gap: 5px;">
-                    <div class="news-date"> May 5 </div>
-                    <div class="news-link">
-                        <a href="" target="_blank">
-                            Paper accepted in <em> Phys. Rev. E <\em>
-                        </a>
-                    </div>
+        <div class="news-item">
+            <div>
+                <div class="news-date">May 5, 2025</div>
+                <div class="news-link">
+                    <a href="https://journals.aps.org/pre/" target="_blank">
+                        Paper accepted in <em>Phys. Rev. E</em>
+                    </a>
                 </div>
             </div>
+        </div>
 
-            <div class="news-item" style="margin-top: 10px;">
-                <div style="display: flex; align-items: center; gap: 5px;">
-                    <div class="news-date"> March 7 </div>
-                    <div class="news-link">
-                        <a href="" target="_blank">
-                            New patent published
-                        </a>
-                    </div>
+        <div class="news-item">
+            <div>
+                <div class="news-date">March 7, 2025</div>
+                <div class="news-link">
+                    <a href="https://patents.google.com/" target="_blank">
+                        New patent published
+                    </a>
                 </div>
             </div>
+        </div>
 
-            <div class="news-item" style="margin-top: 10px;">
-                <div style="display: flex; align-items: center; gap: 5px;">
-                    <div class="news-date">Feb. 13 </div>
-                    <div class="news-link">
-                        <a href="https://arxiv.org/abs/2502.09361" target="_blank">
-                            New Preprint available
-                        </a>
-                    </div>
+        <div class="news-item">
+            <div>
+                <div class="news-date">Feb 13, 2025</div>
+                <div class="news-link">
+                    <a href="https://arxiv.org/abs/2502.09361" target="_blank">
+                        New Preprint available
+                    </a>
                 </div>
             </div>
+        </div>
 
-            <div class="news-item" style="margin-top: 10px;">
-                <div style="display: flex; align-items: center; gap: 5px;">
-                    <div class="news-date">Jan. 6 </div>
-                    <div class="news-link">
-                        <a href="https://iopscience.iop.org/article/10.1088/1751-8121/ad8f06/meta" target="_blank">
-                            Paper published in <em>J. Phys. A: Math. Theor.</em>
-                        </a>
-                    </div>
+        <div class="news-item">
+            <div>
+                <div class="news-date">Jan 6, 2025</div>
+                <div class="news-link">
+                    <a href="https://iopscience.iop.org/article/10.1088/1751-8121/ad8f06/meta" target="_blank">
+                        Paper published in <em>J. Phys. A: Math. Theor.</em>
+                    </a>
                 </div>
             </div>
         </div>
