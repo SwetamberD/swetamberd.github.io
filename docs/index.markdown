@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "About"
-permalink: /about
-name: "about"
+permalink: /
+name: "About"
 weight: 1
 ---
 <html lang="en">
