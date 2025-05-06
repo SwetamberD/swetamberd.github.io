@@ -1,11 +1,10 @@
 ---
 layout: page
-title: "About"
-permalink: /About
-name: "About"
+title: "about"
+permalink: /about
+name: "about"
 weight: 1
 ---
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
