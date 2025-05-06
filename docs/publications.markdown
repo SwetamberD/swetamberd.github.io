@@ -63,7 +63,8 @@ weight: 3
        <li style="margin-bottom: 20px;">
         <div><em>Phase-space contraction rate for classical mixed states</em></div>
         <div>Mohamed Sahbani, <strong>Swetamber Das</strong>, and Jason R. Green (2025)</div>
-        <div><a href="https://journals.aps.org/pre/accepted/2a07aRd8Oa413921248217d30aec1de3eb6fbd17f" target="_blank" class="publication-link"> Phys. Rev. E <em>(to appear)</em>.</div>
+        <div><a href="https://journals.aps.org/pre/accepted/2a07aRd8Oa413921248217d30aec1de3eb6fbd17f" target="_blank" class="publication-link"> Phys. Rev. E <em>(to appear)</em>.</a>
+        </div>
     </li>
 
     <li style="margin-bottom: 20px;">
@@ -75,11 +76,13 @@ weight: 3
             </a>
         </div>
     </li>
+
     <li style="margin-bottom: 20px;">
         <div><em>Maximum speed of dissipation</em></div>
         <div><strong>Swetamber Das</strong> and Jason R. Green (2024)</div>
         <div><a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.109.L052104" target="_blank" class="publication-link">Phys. Rev. E (Letter) 109, L052104.</a></div>
     </li>
+
     <li style="margin-bottom: 20px;">
         <div><em>Observing the dynamics of an electrochemically driven active material with liquid electron microscopy</em></div>
         <div>Wyeth S. Gibson, Justin T. Mulvey, <strong>Swetamber Das</strong>, Serxho Selmani, Jovany G. Merham, Alex Rakowski, Eric Schwartz, Allon I. Hochbaum, Zhibin Guan, Jason R. Green, and Joseph P. Patterson (2024)</div>
