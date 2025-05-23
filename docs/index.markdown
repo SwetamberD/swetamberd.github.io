@@ -85,10 +85,10 @@ weight: 1
 
             <div class="news-item">
                 <div>
-                    <div class="news-date">May 5</div>
+                    <div class="news-date">May 22 </div>
                     <div class="news-link">
-                        <a href="https://journals.aps.org/pre/accepted/2a07aRd8Oa413921248217d30aec1de3eb6fbd17f" target="_blank">
-                            Paper accepted in <em>Phys. Rev. E</em>
+                        <a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.111.054130" target="_blank">
+                            Paper published in <em>Phys. Rev. E</em>
                         </a>
                     </div>
                 </div>
