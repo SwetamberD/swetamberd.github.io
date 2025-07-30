@@ -16,8 +16,8 @@ weight: 5
         Amaravati 522 240, <br>
         Andhra Pradesh, India.</p>
 
-        <p><strong>Office:</strong> Homi Bhabha block, <br>
-         Level 2, Cabin 3.</p>
+        <p><strong>Office:</strong> C V Raman Block, <br>
+         Level 9, Cabin 1.</p>
         <p><strong>Email:</strong> <a href="mailto:swetamber.p@srmap.in">swetamber.p@srmap.in</a></p>
     </div>
 
