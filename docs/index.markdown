@@ -92,6 +92,7 @@ weight: 1
                         </a>
                     </div>
                 </div>
+                
             <div class="news-item">
                 <div>
                     <div class="news-date"> Sep 1 </div>
