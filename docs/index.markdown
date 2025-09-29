@@ -79,73 +79,62 @@ weight: 1
         a diverse set of analytical methods and computational tools.</p>
 
         <p><span style="color: #006600;"> We currently have bachelor's, master's, and PhD positions available. If interested, please reach out to discuss potential projects.</span></p>
+<div class="news-links">
+    <h2>News</h2>
 
-        <div class="news-links">
-            <h2>News</h2>
-
-            <div class="news-item">
-                <div>
-                    <div class="news-date">Sep 3 </div>
-                    <div class="news-link">
-                        <a href="https://www.mdpi.com/journal/entropy/special_issues/GM01HB4S7Z" target="_blank">
-                            Joined as a Guest Editor, Entropy MDPI, 2025 - 2026
-                        </a>
-                    </div>
-                </div>
-                
-            <div class="news-item">
-                <div>
-                    <div class="news-date"> Sep 1 </div>
-                    <div class="news-link">
-                        <a href="" target="_blank">
-                            Mr. Sai Gagan Mesa joined for his undergraduate thesis
-                        </a>
-                    </div>
-                </div>
-            <div class="news-item">
-                <div>
-                    <div class="news-date">May 22 </div>
-                    <div class="news-link">
-                        <a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.111.054130" target="_blank">
-                            Paper published in <em>Phys. Rev. E</em>
-                        </a>
-                    </div>
-                </div>
-            </div>
-
-            <div class="news-item">
-                <div>
-                    <div class="news-date">March 7</div>
-                    <div class="news-link">
-                        <a href="https://patents.google.com/" target="_blank">
-                            New patent published
-                        </a>
-                    </div>
-                </div>
-            </div>
-
-            <div class="news-item">
-                <div>
-                    <div class="news-date">Feb 13</div>
-                    <div class="news-link">
-                        <a href="https://arxiv.org/abs/2502.09361" target="_blank">
-                            New Preprint available
-                        </a>
-                    </div>
-                </div>
-            </div>
-
-            <div class="news-item">
-                <div>
-                    <div class="news-date">Jan 6</div>
-                    <div class="news-link">
-                        <a href="https://iopscience.iop.org/article/10.1088/1751-8121/ad8f06/meta" target="_blank">
-                            Paper published in <em>J. Phys. A: Math. Theor.</em>
-                        </a>
-                    </div>
-                </div>
-            </div>
+    <div class="news-item">
+        <div class="news-date">Sep 3</div>
+        <div class="news-link">
+            <a href="https://www.mdpi.com/journal/entropy/special_issues/GM01HB4S7Z" target="_blank">
+                Joined as a Guest Editor, Entropy MDPI, 2025 - 2026
+            </a>
         </div>
     </div>
+
+    <div class="news-item">
+        <div class="news-date">Sep 1</div>
+        <div class="news-link">
+            <a href="#" target="_blank">
+                Mr. Sai Gagan Mesa joined for his undergraduate thesis
+            </a>
+        </div>
+    </div>
+
+    <div class="news-item">
+        <div class="news-date">May 22</div>
+        <div class="news-link">
+            <a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.111.054130" target="_blank">
+                Paper published in <em>Phys. Rev. E</em>
+            </a>
+        </div>
+    </div>
+
+    <div class="news-item">
+        <div class="news-date">March 7</div>
+        <div class="news-link">
+            <a href="https://patents.google.com/" target="_blank">
+                New patent published
+            </a>
+        </div>
+    </div>
+
+    <div class="news-item">
+        <div class="news-date">Feb 13</div>
+        <div class="news-link">
+            <a href="https://arxiv.org/abs/2502.09361" target="_blank">
+                New Preprint available
+            </a>
+        </div>
+    </div>
+
+    <div class="news-item">
+        <div class="news-date">Jan 6</div>
+        <div class="news-link">
+            <a href="https://iopscience.iop.org/article/10.1088/1751-8121/ad8f06/meta" target="_blank">
+                Paper published in <em>J. Phys. A: Math. Theor.</em>
+            </a>
+        </div>
+    </div>
+</div>
 </body>
 </html>
