@@ -31,6 +31,32 @@
         </span>
     </p>
 
+    <style>
+        .news-links {
+            margin-top: 20px;
+        }
+
+        .news-item {
+            display: flex;
+            align-items: center;
+            margin-bottom: 8px;
+        }
+
+        .news-date {
+            flex: 0 0 80px;   /* fixed width for dates */
+            font-weight: bold;
+            color: #333;
+        }
+
+        .news-link a {
+            text-decoration: none;
+            color: #0066cc;
+        }
+
+        .news-link a:hover {
+            text-decoration: underline;
+    }
+    </style>
     <div class="news-links">
         <h2>News</h2>
 
