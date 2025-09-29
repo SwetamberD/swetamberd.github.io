@@ -84,6 +84,15 @@ weight: 1
             <h2>News</h2>
 
             <div class="news-item">
+                 <div>
+                    <div class="news-date">Sep 3 </div>
+                    <div class="news-link">
+                        <a href="https://www.mdpi.com/journal/entropy/special_issues/GM01HB4S7Z" target="_blank">
+                            Guest Editor, Entropy MDPI: Special issuel on "Thermodynamic Speed Limits in Quantum and Classical Systems" 2025 - 2026 <em>Phys. Rev. E</em>
+                        </a>
+                    </div>
+                </div>
+
                 <div>
                     <div class="news-date">May 22 </div>
                     <div class="news-link">
