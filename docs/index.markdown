@@ -84,7 +84,6 @@ weight: 1
             <h2>News</h2>
 
             <div class="news-item">
-
                 <div>
                     <div class="news-date">Sep 3 </div>
                     <div class="news-link">
@@ -93,7 +92,7 @@ weight: 1
                         </a>
                     </div>
                 </div>
-
+            <div class="news-item">
                 <div>
                     <div class="news-date"> Sep 1 </div>
                     <div class="news-link">
@@ -102,7 +101,7 @@ weight: 1
                         </a>
                     </div>
                 </div>
-
+            <div class="news-item">
                 <div>
                     <div class="news-date">May 22 </div>
                     <div class="news-link">
