@@ -84,17 +84,18 @@ weight: 1
             <h2>News</h2>
 
             <div class="news-item">
+
                 <div>
                     <div class="news-date">Sep 3 </div>
                     <div class="news-link">
                         <a href="https://www.mdpi.com/journal/entropy/special_issues/GM01HB4S7Z" target="_blank">
-                            Guest Editor, Entropy MDPI, 2025 - 2026
+                            Joined as a Guest Editor, Entropy MDPI, 2025 - 2026
                         </a>
                     </div>
                 </div>
 
-                 <div>
-                    <div class="news-date">Sep 1 </div>
+                <div>
+                    <div class="news-date"> Sep 1 </div>
                     <div class="news-link">
                         <a href="" target="_blank">
                             Mr. Sai Gagan Mesa joined for his undergraduate thesis
