@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Dynamical Systems Theory Group
+title: Dynamics and Complexity Group 
 email: swetamber.p@srmap.edu.in
 description: >-
-  Dynamical Systems Theory Group at SRM University - AP (India).
+  Dynamics and Complexity Group at SRM University - AP (India).
 baseurl: "/research-group-website"  # Adjust based on your project's location
 url: "https://swetamberd.github.io" # Base URL for your site
 twitter_username: Swetamber
