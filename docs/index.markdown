@@ -13,14 +13,7 @@
     </p>
 
     <p class="justified">
-        Our research lies at the intersection of dynamical systems and non-equilibrium physics,
-        aiming to understand how physical systems interact with their environment.
-        These interactions give rise to emergent phenomena across various scales of length, time, and energy,
-        from the formation of self-assembly patterns in chemical reactions to the functioning of
-        biological cells essential for life. Our aim is to understand the dynamical mechanisms
-        of these processes in order to inform experiments toward
-        designing synthetic systems. To tackle these challenges, we leverage
-        a diverse set of analytical methods and computational tools.
+        We explore dynamical systems in the broadest sense - how complex systems evolve, adapt, and interact with their environment. Such interactions drive the fascinating non-equilibrium behaviors seen everywhere: chemicals forming patterns, cells maintaining life, or networks showing unexpected collective dynamics. Understanding the dynamical principles behind these processes matters because it helps us make sense of complexity in nature and provides a foundation for designing synthetic systems with desired behaviors. Our work is theoretical, drawing on mathematics, physics, and computation, but it is motivated by real-world phenomena where complexity and dynamics play a central role.
     </p>
 
     <p>
