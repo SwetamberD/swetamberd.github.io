@@ -1,13 +1,12 @@
 <div class="content">
-    <p>
+    <div class="header-row">
+        <p class="group-title">
+            Dynamical Systems Theory Group
+        </p>
         <img src="{{ site.baseurl }}/images/srmap-logo-2.png" 
              alt="SRM University - AP" 
              class="logo">
-    </p>
-
-    <p style="font-size: 22px; font-weight: bold;">
-        Dynamical Systems Theory Group
-    </p>
+    </div>
 
     <p>
         at <strong><a href="https://srmap.edu.in/">SRM University - AP, Amaravati (India)</a></strong>
@@ -32,8 +31,20 @@
     </p>
 
     <style>
+        .header-row {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .group-title {
+            font-size: 22px;
+            font-weight: bold;
+            margin: 0;
+        }
+
         .logo {
-            max-width: 150px;  /* keeps logo small */
+            max-width: 150px;
             height: auto;
         }
 
@@ -52,7 +63,7 @@
         }
 
         .news-date {
-            flex: 0 0 80px;   /* fixed width for dates */
+            flex: 0 0 80px;
             font-weight: bold;
             color: #333;
         }
@@ -66,6 +77,7 @@
             text-decoration: underline;
         }
     </style>
+
 
     <div class="news-links">
         <h2>News</h2>
