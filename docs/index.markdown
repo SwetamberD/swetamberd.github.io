@@ -79,7 +79,7 @@
             <div class="news-date">Sep 3</div>
             <div class="news-link">
                 <a href="https://www.mdpi.com/journal/entropy/special_issues/GM01HB4S7Z" target="_blank">
-                    Joined as a Guest Editor, Entropy MDPI, 2025 - 2026
+                    Serving as a Guest Editor, Entropy MDPI, 2025 - 2026
                 </a>
             </div>
         </div>
