@@ -13,7 +13,7 @@
         at <strong><a href="https://srmap.edu.in/">SRM University - AP, Amaravati (India)</a></strong>
     </p>
 
-    <p>
+    <p class="justified">
         Our research lies at the intersection of dynamical systems and non-equilibrium physics,
         aiming to understand how physical systems interact with their environment.
         These interactions give rise to emergent phenomena across various scales of length, time, and energy,
@@ -32,6 +32,15 @@
     </p>
 
     <style>
+        .logo {
+            max-width: 150px;  /* keeps logo small */
+            height: auto;
+        }
+
+        .justified {
+            text-align: justify;
+        }
+
         .news-links {
             margin-top: 20px;
         }
@@ -55,8 +64,9 @@
 
         .news-link a:hover {
             text-decoration: underline;
-    }
+        }
     </style>
+
     <div class="news-links">
         <h2>News</h2>
 
