@@ -1,7 +1,7 @@
 <div class="content">
     <div class="header-row">
         <p class="group-title">
-            Dynamical Systems Theory Group
+            Dynamics and Complexity Group
         </p>
         <img src="{{ site.baseurl }}/images/srmap-logo-2.png" 
              alt="SRM University - AP" 
