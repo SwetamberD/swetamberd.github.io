@@ -13,7 +13,7 @@
     </p>
 
     <p class="justified">
-        We explore dynamical systems in the broadest sense - how complex systems evolve, adapt, and interact with their environment. Such interactions drive the fascinating non-equilibrium behaviors seen everywhere: chemicals forming patterns, cells maintaining life, or networks showing unexpected collective dynamics. Understanding the dynamical principles behind these processes matters because it helps us make sense of complexity in nature and provides a foundation for designing synthetic systems with desired behaviors. Our work is theoretical, drawing on mathematics, physics, and computation, but it is motivated by real-world phenomena where complexity and dynamics play a central role.
+        We study dynamical systems in the broadest sense - focusing on how complex systems evolve, adapt, and interact with their environment. These interactions give rise to striking non-equilibrium phenomena: chemicals forming intricate patterns, cells sustaining life, or networks displaying unexpected collective behaviors. By uncovering the dynamical principles underlying such processes, we gain a deeper understanding of complexity in nature while also building a foundation for engineering synthetic systems with tailored behaviors. Our work is theoretical, grounded in mathematics, physics, and computation, yet it is driven by real-world phenomena where complexity and dynamics are central.
     </p>
 
     <p>
