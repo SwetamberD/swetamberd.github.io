@@ -16,13 +16,14 @@
         We study dynamical systems in the broadest sense - focusing on how complex systems evolve, adapt, and interact with their environment. These interactions give rise to striking non-equilibrium phenomena: chemicals forming intricate patterns, cells sustaining life, or networks displaying unexpected collective behaviors. By uncovering the dynamical principles underlying such processes, we gain a deeper understanding of complexity in nature while also building a foundation for engineering synthetic systems with tailored behaviors. Our work is theoretical, grounded in mathematics, physics, and computation, yet it is driven by real-world phenomena where complexity and dynamics are central.
     </p>
 
-     <p>
-        <span style="color: #D63A1A;">
-            <a href="https://srmap.edu.in/fracmeet-2025" target="_blank" style="color: inherit; text-decoration: none;">
-                    Fracmeet 2025 Collective Phenomena in Disordered Systems- II, Nov. 20 - 22 @ SRM AP
-                </a>
-        </span>
+    <p>
+    <span style="color: #007f7f;">
+        <a href="https://srmap.edu.in/fracmeet-2025" target="_blank" style="color: inherit; text-decoration: none; font-weight: 500;">
+            Fracmeet 2025 Collective Phenomena in Disordered Systems- II, Nov. 20 - 22 @ SRM AP
+        </a>
+    </span>
     </p>
+
 
     <style>
         .header-row {
