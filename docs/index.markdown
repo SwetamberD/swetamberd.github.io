@@ -71,11 +71,8 @@
         <h2 style="color: #005f73 ; font-weight: bold; margin-bottom: 10px;">
         News </h2>
 
-         <p><span style="color: #e63946;">
-        <a href="https://srmap.edu.in/fracmeet-2025" target="_blank" style="color: inherit; text-decoration: none; font-weight: 500;">
-            Fracmeet 2025 Collective Phenomena in Disordered Systems- II, Nov. 20 - 22 @ SRM AP
-        </a>
-            </span>
+         <p> <a href="https://srmap.edu.in/fracmeet-2025" target="_blank" style="color: inherit; text-decoration: none; font-weight: 500;">
+            Fracmeet 2025 Collective Phenomena in Disordered Systems- II, Nov. 20 - 22 @ SRM AP</a>
         </p>
 
         <p>
