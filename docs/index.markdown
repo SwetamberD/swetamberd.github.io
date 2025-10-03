@@ -19,7 +19,7 @@
      <p>
         <span style="color: #D63A1A;">
             Upcoming conference: <a href="https://srmap.edu.in/fracmeet-2025" target="_blank" style="color: inherit; text-decoration: none;">
-                    Fracmeet 2025 @ SRM AP
+                    Fracmeet 2025 Collective Phenomena in Disordered Systems- II (Nov. 20 - 22) @ SRM AP
                 </a>
         </span>
     </p>
