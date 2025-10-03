@@ -19,7 +19,7 @@
      <p>
         <span style="color: #D63A1A;">
             <a href="https://srmap.edu.in/fracmeet-2025" target="_blank" style="color: inherit; text-decoration: none;">
-                    Fracmeet 2025 Collective Phenomena in Disordered Systems- II (Nov. 20 - 22) @ SRM AP
+                    Fracmeet 2025 Collective Phenomena in Disordered Systems- II, Nov. 20 - 22 @ SRM AP
                 </a>
         </span>
     </p>
@@ -74,11 +74,12 @@
 
 
     <div class="news-links">
-        <h2>News</h2>
+        <h2 style="color: #e63946; font-weight: bold; margin-bottom: 10px;">
+        News </h2>
 
         <p>
         <span style="color: #000000;">
-            We currently have bachelor's, master's, and PhD positions available. 
+            We currently have master's, and PhD positions available. 
             If interested, please reach out to discuss potential projects.
         </span>
          </p>
