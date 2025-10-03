@@ -77,7 +77,7 @@
         <h2>News</h2>
 
         <p>
-        <span style="color: #006600;">
+        <span style="color: #000000;">
             We currently have bachelor's, master's, and PhD positions available. 
             If interested, please reach out to discuss potential projects.
         </span>
