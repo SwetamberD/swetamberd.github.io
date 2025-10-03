@@ -13,7 +13,7 @@
     </p>
 
     <p class="justified">
-        We study complex dynamical systems to understand how they change, adapt, and interact with their environment. Such interactions give rise to striking non-equilibrium phenomena: chemicals forming intricate patterns, cells sustaining life, or networks displaying interesting collective behaviors. By uncovering the dynamical principles underlying such processes, we gain a deeper understanding of complexity in nature while also building a foundation for engineering synthetic systems with tailored dynamical behaviors. Our work is theoretical, grounded in mathematics, physics, and computation, yet it is driven by real-world phenomena where dynamics and complexity are central.
+        We study complex dynamical systems to understand how they change, adapt, and interact with their environment. Such interactions give rise to striking non-equilibrium phenomena: chemicals forming intricate patterns, cells sustaining life, or networks displaying interesting collective behaviors. By uncovering the dynamical principles underlying such processes, we aim to deepen the current understanding of complexity in nature while also building a foundation for engineering synthetic systems with tailored dynamical behaviors. Our work is theoretical, grounded in mathematics, physics, and computation, yet it is driven by real-world phenomena where dynamics and complexity are central.
     </p>
 
 
