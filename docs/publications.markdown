@@ -49,7 +49,7 @@ weight: 3
 <ol reversed style="line-height: 1.5; text-align: justify;">
     <li style="margin-bottom: 20px; line-height: 1.5;">
         <div><em>Phase space volume preserving dynamics for non-Hamiltonian systems</em></div>
-        <div><strong>Swetamber Das</strong>and Jason R. Green (2025)</div>
+        <div><strong>Swetamber Das</strong> and Jason R. Green (2025)</div>
         <div>
             <a href="" target="_blank" class="publication-link">
             </a>
