@@ -48,6 +48,15 @@ weight: 3
 <h3>In Preparation </h3>
 <ol reversed style="line-height: 1.5; text-align: justify;">
     <li style="margin-bottom: 20px; line-height: 1.5;">
+        <div><em>Phase space volume preserving dynamics for non-Hamiltonian systems</em></div>
+        <div><strong>Swetamber Das</strong>and Jason R. Green (2025)</div>
+        <div>
+            <a href="" target="_blank" class="publication-link">
+            </a>
+        </div>
+    </li>
+
+    <li style="margin-bottom: 20px; line-height: 1.5;">
         <div><em>Classical-mechanical advantage in parameter estimation</em></div>
         <div>Mohamed Sahbani, <strong>Swetamber Das</strong>, and Jason R. Green (2025)</div>
         <div>
