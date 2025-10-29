@@ -83,7 +83,7 @@
          </p>
 
          <div class="news-item">
-            <div class="news-date">Sep 3</div>
+            <div class="news-date">Oct 29</div>
             <div class="news-link">
                 <a href="https://arxiv.org/abs/2510.24100" target="_blank">
                     New Preprint available

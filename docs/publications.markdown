@@ -52,23 +52,23 @@ weight: 3
         <div>Mohamed Sahbani, <strong>Swetamber Das</strong>, and Jason R. Green (2025)</div>
         <div>
             <a href="" target="_blank" class="publication-link">
-                
             </a>
         </div>
     </li>
 </ol>
 
-<h3>In Review </h3>
+<h3>In Review</h3>
 <ol reversed style="line-height: 1.5; text-align: justify;">
     <li style="margin-bottom: 20px; line-height: 1.5;">
         <div><em>Dynamical system analysis of quantum tunneling in an asymmetric double-well potential</em></div>
-        <div> <strong>Swetamber Das</strong> and Arghya Dutta (2025)</div>
+        <div><strong>Swetamber Das</strong> and Arghya Dutta (2025)</div>
         <div>
             <a href="https://arxiv.org/abs/2510.24100" target="_blank" class="publication-link">
+                [arXiv:2510.24100]
             </a>
         </div>
     </li>
-</ol
+</ol>
 
 <h3>Published/Accepted</h3>
 <ol reversed style="line-height: 1.5; text-align: justify;">
