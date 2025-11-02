@@ -47,7 +47,7 @@ weight : 4
          style="width: 180px; height: 180px; object-fit: cover; object-position: center top; border-radius: 50%; flex-shrink: 0;margin-top: -10px;">
 
     <div class="profile-text" style="text-align: justify; margin-top: 25px;">
-        <strong> Mr. Gagan Sai Mesa </strong> is a senior undergraduate student in Physics at SRM University–AP, who joined the group in Sep. 2025. His research interests lie in econophysics, applying physical principles and statistical models to understand financial market dynamics. He focuses on technical and fundamental analysis and the use of AI-driven trading systems. He is also involved in scientific visualization, creating physics-based animations that combine analytical insight with creativity. His broader aim is to connect science, technology, and art through innovative and interdisciplinary work.
+        <strong> Mr. Sai Gagan Mesa </strong> is a senior undergraduate student in Physics at SRM University–AP, who joined the group in Sep. 2025. His research interests lie in econophysics, applying physical principles and statistical models to understand financial market dynamics. He focuses on technical and fundamental analysis and the use of AI-driven trading systems. He is also involved in scientific visualization, creating physics-based animations that combine analytical insight with creativity. His broader aim is to connect science, technology, and art through innovative and interdisciplinary work.
     </div>
 </div>
 
