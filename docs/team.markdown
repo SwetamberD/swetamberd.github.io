@@ -45,7 +45,7 @@ weight : 4
 <div class="profile-container" 
      style="display: flex; align-items: center; gap: 20px; max-width: 800px; margin-bottom: 20px;">
     
-    <img src="{{ site.baseurl }}/images/Gagan.png" alt="Profile Picture"
+    <img src="{{ site.baseurl }}/images/Gagan-1.jpg" alt="Profile Picture"
          style="width: 180px; height: 180px; object-fit: cover; object-position: center top; border-radius: 50%; flex-shrink: 0;">
     
     <div class="profile-text" style="text-align: justify;">
