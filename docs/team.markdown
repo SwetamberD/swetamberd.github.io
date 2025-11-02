@@ -36,6 +36,11 @@ weight : 4
     </div>
 </div>
 
+<!-- Gray Separator Line -->
+<div style="max-width: 800px; margin: 20px auto;">
+    <hr style="border: 1px solid gray;">
+</div>
+
 <!-- Profile: Mr. Gagan  -->
 <div class="profile-container" style="display: flex; align-items: flex-start; gap: 20px; max-width: 800px;">
     <img src="{{ site.baseurl }}/images/Gagan.png" alt="Profile Picture"
