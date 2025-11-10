@@ -85,7 +85,7 @@
          <div class="news-item">
             <div class="news-date">Nov 10</div>
             <div class="news-link">
-                <a href="https://arxiv.org/abs/2510.24100" target="_blank">
+                <a href="https://arxiv.org/abs/2511.04960" target="_blank">
                     New Preprint available
                 </a>
             </div>

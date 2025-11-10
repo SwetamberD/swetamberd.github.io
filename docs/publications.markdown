@@ -73,7 +73,7 @@ weight: 3
         <div><em>Phase space volume preserving dynamics for non-Hamiltonian systems</em></div>
         <div><strong>Swetamber Das</strong> and Jason R. Green (2025)</div>
         <div>
-            <a href="" target="_blank" class="publication-link">
+            <a href="https://arxiv.org/abs/2511.04960" target="_blank" class="publication-link">[arXiv:2511.04960]
             </a>
         </div>
     </li>
