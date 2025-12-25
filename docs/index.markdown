@@ -71,16 +71,21 @@
         <h2 style="color: #005f73 ; font-weight: bold; margin-bottom: 10px;">
         News </h2>
 
-         <p> <a href="https://srmap.edu.in/fracmeet-2025" target="_blank" style="font-weight: 500;">
-            Fracmeet 2025 Collective Phenomena in Disordered Systems- II, Nov. 20 - 22 @ SRM AP</a>
-        </p>
-
         <p>
         <span style="color: #000000;">
             We currently have master's and doctoral positions available. 
             If interested, please reach out to discuss potential projects.
         </span>
          </p>
+
+        <div class="news-item">
+            <div class="news-date">Dec 1 </div>
+            <div class="news-link">
+                <a href="#" target="_blank">
+                    Mr. Dhanraj Kumar (IISER Mohali) joined for winter internship 2025-2026
+                </a>
+            </div>
+        </div>
 
          <div class="news-item">
             <div class="news-date">Nov 10</div>

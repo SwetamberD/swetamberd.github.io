@@ -53,6 +53,22 @@ weight : 4
     </div>
 </div>
 
+<!-- Gray Separator Line -->
+<div style="max-width: 800px; margin: 20px auto;">
+    <hr style="border: 1px solid gray;">
+</div>
+
+<!-- Profile: Mr. Dhanraj Kumar  -->
+<div class="profile-container" 
+     style="display: flex; align-items: center; gap: 20px; max-width: 800px; margin-bottom: 20px;">
+    
+    <img src="{{ site.baseurl }}/images/Dhanraj.jpeg" alt="Profile Picture"
+         style="width: 180px; height: 180px; object-fit: cover; object-position: center top; border-radius: 50%; flex-shrink: 0;">
+    
+    <div class="profile-text" style="text-align: justify;">
+        <strong> Mr. Dhanraj Kumar </strong>  is a third-year BS–MS Physics student at IISER Mohali, interested in computational physics, chaos and nonlinear dynamics, nuclear physics and sustainable energy. He has research experience in Python-based simulations and data analysis, including work on chaos theory and nuclear energy–climate studies.
+    </div>
+</div>
 
 <!-- Gray Separator Line -->
 <div style="max-width: 800px; margin: 20px auto;">
