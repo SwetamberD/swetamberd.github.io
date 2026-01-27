@@ -79,6 +79,14 @@
          </p>
 
         <div class="news-item">
+            <div class="news-date"> Jan 26 </div>
+            <div class="news-link">
+                <a href="#" target="_blank">
+                    Two new preprints available
+                </a>
+         </div>
+
+        <div class="news-item">
             <div class="news-date">Dec 1 </div>
             <div class="news-link">
                 <a href="#" target="_blank">
@@ -150,6 +158,7 @@
             </div>
         </div>
 
+        <! --
         <div class="news-item">
             <div class="news-date">Jan 6</div>
             <div class="news-link">
@@ -158,5 +167,5 @@
                 </a>
             </div>
         </div>
-    </div> <!-- /.news-links -->
+    </div> --> <!-- /.news-links -->
 </div> <!-- /.content -->
