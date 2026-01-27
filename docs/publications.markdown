@@ -89,7 +89,7 @@ weight: 3
 
     <li style="margin-bottom: 20px; line-height: 1.5;">
     <div><em>Geometry- and inertia-limited chaotic growth in classical many-body systems</em></div>
-    <div><strong>Swetamber Das</strong></div>
+    <div><strong>Swetamber Das</strong> (2026) </div>
     <div>
         <details style="margin-top: 8px;">
             <summary style="color: #0066cc; cursor: pointer; display: inline; font-weight: 500;">
