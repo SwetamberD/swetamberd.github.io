@@ -73,7 +73,7 @@
 
         <p>
         <span style="color: #000000;">
-            We currently have master's and doctoral positions available. 
+            Doctoral positions available. 
             If interested, please reach out to discuss potential projects.
         </span>
          </p>
