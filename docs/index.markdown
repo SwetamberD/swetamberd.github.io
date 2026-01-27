@@ -78,84 +78,78 @@
         </span>
          </p>
 
-        <div class="news-item">
-            <div class="news-date"> Jan 26 </div>
-            <div class="news-link">
-                <a href="#" target="_blank">
-                    Two new preprints available
-                </a>
-         </div>
+<div class="news-links">
+    <h2 style="color: #005f73; font-weight: bold; margin-bottom: 10px;">News</h2>
+    
+    <p>
+        <span style="color: #000000;">
+            Doctoral positions available.
+            If interested, please reach out to discuss potential projects.
+        </span>
+    </p>
 
-        <div class="news-item">
-            <div class="news-date">Dec 1 </div>
-            <div class="news-link">
-                <a href="#" target="_blank">
-                    Mr. Dhanraj Kumar (IISER Mohali) joined for winter internship 2025-2026
-                </a>
-            </div>
+    <div class="news-item">
+        <div class="news-date">Jan 26</div>
+        <div class="news-link">
+            <a href="#" target="_blank">Two new preprints available</a>
         </div>
+    </div>
 
-         <div class="news-item">
-            <div class="news-date">Nov 10</div>
-            <div class="news-link">
-                <a href="https://arxiv.org/abs/2511.04960" target="_blank">
-                    New Preprint available
-                </a>
-            </div>
+    <div class="news-item">
+        <div class="news-date">Dec 1</div>
+        <div class="news-link">
+            <a href="#" target="_blank">Mr. Dhanraj Kumar (IISER Mohali) joined for winter internship 2025-2026</a>
         </div>
+    </div>
 
-        <div class="news-item">
-            <div class="news-date">Oct 29</div>
-            <div class="news-link">
-                <a href="https://arxiv.org/abs/2510.24100" target="_blank">
-                    New Preprint available
-                </a>
-            </div>
+    <div class="news-item">
+        <div class="news-date">Nov 10</div>
+        <div class="news-link">
+            <a href="https://arxiv.org/abs/2511.04960" target="_blank">New Preprint available</a>
         </div>
+    </div>
 
-        <div class="news-item">
-            <div class="news-date">Sep 3</div>
-            <div class="news-link">
-                <a href="https://www.mdpi.com/journal/entropy/special_issues/GM01HB4S7Z" target="_blank">
-                    Serving as a Guest Editor, Entropy MDPI, 2025 - 2026
-                </a>
-            </div>
+    <div class="news-item">
+        <div class="news-date">Oct 29</div>
+        <div class="news-link">
+            <a href="https://arxiv.org/abs/2510.24100" target="_blank">New Preprint available</a>
         </div>
+    </div>
 
-        <div class="news-item">
-            <div class="news-date">Sep 1</div>
-            <div class="news-link">
-                <a href="#" target="_blank">
-                    Mr. Sai Gagan Mesa joined for his undergraduate thesis
-                </a>
-            </div>
+    <div class="news-item">
+        <div class="news-date">Sep 3</div>
+        <div class="news-link">
+            <a href="https://www.mdpi.com/journal/entropy/special_issues/GM01HB4S7Z" target="_blank">Serving as a Guest Editor, Entropy MDPI, 2025 - 2026</a>
         </div>
+    </div>
 
-        <div class="news-item">
-            <div class="news-date">May 22</div>
-            <div class="news-link">
-                <a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.111.054130" target="_blank">
-                    Paper published in <em>Phys. Rev. E</em>
-                </a>
-            </div>
+    <div class="news-item">
+        <div class="news-date">Sep 1</div>
+        <div class="news-link">
+            <a href="#" target="_blank">Mr. Sai Gagan Mesa joined for his undergraduate thesis</a>
         </div>
+    </div>
 
-        <div class="news-item">
-            <div class="news-date">March 7</div>
-            <div class="news-link">
-                <a href="https://patents.google.com/" target="_blank">
-                    New patent published
-                </a>
-            </div>
+    <div class="news-item">
+        <div class="news-date">May 22</div>
+        <div class="news-link">
+            <a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.111.054130" target="_blank">Paper published in <em>Phys. Rev. E</em></a>
         </div>
+    </div>
 
-        <div class="news-item">
-            <div class="news-date">Feb 13</div>
-            <div class="news-link">
-                <a href="https://arxiv.org/abs/2502.09361" target="_blank">
-                    New Preprint available
-                </a>
-            </div>
+    <div class="news-item">
+        <div class="news-date">March 7</div>
+        <div class="news-link">
+            <a href="https://patents.google.com/" target="_blank">New patent published</a>
         </div>
+    </div>
+
+    <div class="news-item">
+        <div class="news-date">Feb 13</div>
+        <div class="news-link">
+            <a href="https://arxiv.org/abs/2502.09361" target="_blank">New Preprint available</a>
+        </div>
+    </div>
+
     <!-- /.news-links -->
 </div> <!-- /.content -->
