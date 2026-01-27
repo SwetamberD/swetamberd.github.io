@@ -70,6 +70,24 @@ weight: 3
 <ol reversed style="line-height: 1.5; text-align: justify;">
 
     <li style="margin-bottom: 20px; line-height: 1.5;">
+    <div><em>Force Anti-Alignment and the Geometry of Nonequilibrium Dynamics</em></div>
+    <div>Erez Aghion and <strong>Swetamber Das</strong> (2026)</div>
+    <div>
+        <details style="margin-top: 8px;">
+            <summary style="color: #0066cc; cursor: pointer; display: inline; font-weight: 500;">
+                Abstract
+            </summary>
+            <div style="margin-top: 12px; font-size: 0.95em; color: #333; background: #f9f9f9; padding: 12px; border-left: 4px solid #0066cc; border-radius: 4px;">
+                Recent experiments have shown that entropy production in driven microscopic systems can be strongly nonuniform in space and, in some cases, anticorrelated with local fluctuations. While stochastic thermodynamics successfully quantifies the energetic cost of such nonequilibrium processes, it remains unclear how underlying forces are organized to generate spatially nonuniform entropy production. Here we show that entropy production admits a natural force-level interpretation: it arises when external driving forces and entropic gradients fail to cancel through perfect anti-alignment. We introduce a time-dependent force-correlation coefficient that provides a geometric measure of this misalignment and links force organization directly to entropy production. For overdamped dynamics, perfect force anti-alignment defines a thermodynamic stall condition with vanishing net transport but finite entropy production, while departures from this geometry quantify additional irreversibility. Applying this framework to both constant and time-dependent driving protocols, we construct geometric representations that relate entropy production, transport, and driving strength within a unified framework. More broadly, this work positions force geometry as an organizing principle for nonequilibrium thermodynamics, clarifying how vectorial force organization complements current-based bounds and provides a geometric perspective on spatially heterogeneous entropy production. We outline how these ideas extend to underdamped dynamics, where inertia introduces additional geometric structure in the organization of entropy production.
+            </div>
+        </details>
+        
+        <!-- Optional: arXiv link kept alongside -->
+        <! -- <a href="https://arxiv.org/abs/2511.04960" target="_blank" class="publication-link" style="margin-left: 15px; color: #0066cc;">[arXiv:2511.04960]</a>
+        </div>
+    </li>
+
+    <li style="margin-bottom: 20px; line-height: 1.5;">
         <div><em>Phase space volume preserving dynamics for non-Hamiltonian systems</em></div>
         <div><strong>Swetamber Das</strong> and Jason R. Green (2025)</div>
         <div>
