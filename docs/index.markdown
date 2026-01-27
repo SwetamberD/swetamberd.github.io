@@ -157,16 +157,5 @@
                 </a>
             </div>
         </div>
-
-        <! --
-        <div class="news-item">
-            <div class="news-date">Jan 6</div>
-            <div class="news-link">
-                <a href="https://iopscience.iop.org/article/10.1088/1751-8121/ad8f06/meta" target="_blank">
-                    Paper published in <em>J. Phys. A: Math. Theor.</em>
-                </a>
-            </div>
-        </div>
-    </div> -->
     <!-- /.news-links -->
 </div> <!-- /.content -->
