@@ -83,7 +83,26 @@ weight: 3
         </details>
         
         <!-- Optional: arXiv link kept alongside -->
-        <! -- <a href="https://arxiv.org/abs/2511.04960" target="_blank" class="publication-link" style="margin-left: 15px; color: #0066cc;">[arXiv:2511.04960]</a>
+        <!-- <a href="https://arxiv.org/abs/2511.04960" target="_blank" class="publication-link" style="margin-left: 15px; color: #0066cc;">[arXiv:2511.04960]</a> -->
+        </div>
+    </li>
+
+    <li style="margin-bottom: 20px; line-height: 1.5;">
+    <div><em>Geometry- and inertia-limited chaotic growth in classical many-body systems</em></div>
+    <div><strong>Swetamber Das</strong></div>
+    <div>
+        <details style="margin-top: 8px;">
+            <summary style="color: #0066cc; cursor: pointer; display: inline; font-weight: 500;">
+                Abstract
+            </summary>
+            <div style="margin-top: 12px; font-size: 0.95em; color: #333; background: #f9f9f9; padding: 12px; border-left: 4px solid #0066cc; border-radius: 4px;">
+                Chaotic instability in many-body systems is commonly quantified by the largest Lyapunov exponent, yet general constraints on its magnitude in classical interacting systems remain poorly understood. Here we establish explicit, Hamiltonian-specific upper bounds on the largest Lyapunov exponent for classical many-body systems with local interactions. These bounds arise from instantaneous stability constraints on the Hamiltonian flow and are expressed in terms of inertial scales and the curvature of the interaction potential. We show that they naturally separate into two qualitatively distinct classes: non-violable bounds, controlled by worst-case local curvature scales and inertia and insensitive to spatial structure, and ergodic ceilings, which retain spectral information and encode collective modes and finite-size effects under generic dynamical evolution. For a paradigmatic one-dimensional coupled-rotor chain (Josephson junction array), the ergodic ceiling admits a closed analytic form and produces a dynamically inaccessible region for sustained chaotic growth in the Lyapunov exponent--energy plane, which we confirm numerically. In contrast to non-violable estimates, the ergodic ceiling yields a sharper constraint on chaotic growth by capturing collective suppression mechanisms absent at the level of local curvature alone. Remarkably, in the thermodynamic limit the ergodic ceiling asymptotically approaches an inertial ceiling that limits sustained Lyapunov growth, becoming independent of temperature and interaction strength. While classical systems do not admit universal chaos bounds, our results identify a broad class of natural Hamiltonian systems in which chaotic growth is inherently limited by inertia and interaction geometry, thereby setting a minimal microscopic timescale for long-time loss of memory of initial conditions.
+            </div>
+        </details>
+        
+        <!-- Optional: Add arXiv link here when available, e.g.:
+        <a href="https://arxiv.org/abs/XXXX.XXXXX" target="_blank" class="publication-link" style="margin-left: 15px; color: #0066cc;">[arXiv:XXXX.XXXXX]</a>
+        -->
         </div>
     </li>
 
