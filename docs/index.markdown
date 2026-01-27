@@ -67,23 +67,12 @@
     </style>
 
 
-    <div class="news-links">
-        <h2 style="color: #005f73 ; font-weight: bold; margin-bottom: 10px;">
-        News </h2>
-
-        <p>
-        <span style="color: #000000;">
-            Doctoral positions available. 
-            If interested, please reach out to discuss potential projects.
-        </span>
-         </p>
-
 <div class="news-links">
     <h2 style="color: #005f73; font-weight: bold; margin-bottom: 10px;">News</h2>
     
     <p>
         <span style="color: #000000;">
-            Doctoral positions available.
+            Doctoral positions available:
             If interested, please reach out to discuss potential projects.
         </span>
     </p>
