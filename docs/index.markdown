@@ -167,5 +167,6 @@
                 </a>
             </div>
         </div>
-    </div> --> <!-- /.news-links -->
+    </div> -->
+    <!-- /.news-links -->
 </div> <!-- /.content -->
