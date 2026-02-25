@@ -85,7 +85,7 @@
     </div>
 
       <div class="news-item">
-        <div class="news-date">Feb 25</div>
+        <div class="news-date">Feb 17</div>
         <div class="news-link">
             <a href="https://www.newindianexpress.com/lifestyle/science/2026/Feb/19/predictable-laws-wild-outcomes-its-chaos" target="_blank">An article on Chaos written for The New Indian Express</a>
         </div>
