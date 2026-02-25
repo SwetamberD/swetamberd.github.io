@@ -80,7 +80,7 @@
       <div class="news-item">
         <div class="news-date">Feb 25</div>
         <div class="news-link">
-            <a href="https://arxiv.org/abs/2602.21149" target="_blank">A new preprint available</a>
+            <a href="https://arxiv.org/abs/2602.21149" target="_blank">New preprint available</a>
         </div>
     </div>
 
@@ -95,7 +95,7 @@
     <div class="news-item">
         <div class="news-date">Jan 26</div>
         <div class="news-link">
-            <a href="#" target="_blank">A new preprint available</a>
+            <a href="#" target="_blank">New preprint available</a>
         </div>
     </div>
 
