@@ -100,7 +100,7 @@ weight: 3
             </div>
         </details>
         
-        <a href="https://arxiv.org/abs/2602.21149" target="_blank" class="publication-link" style="margin-left: 15px; color: #0066cc;">[arXiv:XXXX.XXXXX]</a>
+        <a href="https://arxiv.org/abs/2602.21149" target="_blank" class="publication-link" style="margin-left: 15px; color: #0066cc;">[arXiv:2602.21149]</a>
        
         </div>
     </li>
