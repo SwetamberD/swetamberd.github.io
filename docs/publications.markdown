@@ -82,10 +82,10 @@ weight: 3
             </div>
         </details>
 
-        <a href="https://arxiv.org/abs/2603.29416" target="_blank" class="publication-link" style="margin-left: 15px; color: #0066cc;">[arXiv:2603.29416]</a>
+        <a href="https://arxiv.org/abs/2603.29416" target="_blank" class="publication-link" style="margin-left: 15px;">[arXiv:2603.29416]</a>
         
         <!-- Optional: arXiv link kept alongside -->
-        <!-- <a href="https://arxiv.org/abs/2511.04960" target="_blank" class="publication-link" style="margin-left: 15px; color: #0066cc;">[arXiv:2511.04960]</a> -->
+        <!-- <a href="https://arxiv.org/abs/2511.04960" target="_blank" class="publication-link" style="margin-left: 15px;">[arXiv:2511.04960]</a> -->
         </div>
     </li>
 
@@ -102,7 +102,7 @@ weight: 3
             </div>
         </details>
         
-        <a href="https://arxiv.org/abs/2602.21149" target="_blank" class="publication-link" style="margin-left: 15px; color: #0066cc;">[arXiv:2602.21149]</a>
+        <a href="https://arxiv.org/abs/2602.21149" target="_blank" class="publication-link" style="margin-left: 15px;">[arXiv:2602.21149]</a>
        
         </div>
     </li>
