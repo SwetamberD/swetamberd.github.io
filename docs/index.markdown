@@ -69,6 +69,13 @@
 
 <div class="news-links">
     <h2 style="color: #005f73; font-weight: bold; margin-bottom: 10px;">News</h2>
+
+    <div class="news-item">
+        <div class="news-date">Apr 15</div>
+        <div class="news-link">
+            <a href="https://pubs.aip.org/aip/cha/article-abstract/36/4/043120/3387097/Phase-space-volume-preserving-dynamics-for?redirectedFrom=fulltext" target="_blank">Paper published in <em>Chaos</em></a>
+        </div>
+    </div>
     
     <p>
         <span style="color: #000000;">

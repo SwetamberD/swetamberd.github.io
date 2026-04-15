@@ -122,12 +122,12 @@ weight: 3
 <h3>Published/Accepted</h3>
 <ol reversed style="line-height: 1.5; text-align: justify;">
 
-        <li style="margin-bottom: 20px; line-height: 1.5;">
+    <li style="margin-bottom: 20px; line-height: 1.5;">
         <div><em>Phase space volume preserving dynamics for non-Hamiltonian systems</em></div>
         <div><strong>Swetamber Das</strong> and Jason R. Green (2026)</div>
         <div>
-            <a href="https://arxiv.org/abs/2511.04960" target="_blank" class="publication-link">[arXiv:2511.04960](to appear in Chaos)
-            </a>
+            <a href="https://pubs.aip.org/aip/cha/article-abstract/36/4/043120/3387097/Phase-space-volume-preserving-dynamics-for?redirectedFrom=fulltext" target="_blank" class="publication-link">Chaos 36, 043120 (2026).</a>
+            <a href="https://arxiv.org/abs/2511.04960" target="_blank" class="publication-link" style="margin-left: 15px;">[arXiv:2511.04960]</a>
         </div>
     </li>
 
