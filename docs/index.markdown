@@ -70,19 +70,16 @@
 <div class="news-links">
     <h2 style="color: #005f73; font-weight: bold; margin-bottom: 10px;">News</h2>
 
+    <p style="margin: 0 0 14px 0; color: #b00020; font-weight: 600; line-height: 1.5; font-size: 1.02em;">
+        Doctoral positions available: If interested, please reach out to discuss potential projects.
+    </p>
+
     <div class="news-item">
         <div class="news-date">Apr 15</div>
         <div class="news-link">
             <a href="https://pubs.aip.org/aip/cha/article-abstract/36/4/043120/3387097/Phase-space-volume-preserving-dynamics-for?redirectedFrom=fulltext" target="_blank">Paper published in <em>Chaos</em></a>
         </div>
     </div>
-    
-    <p>
-        <span style="color: #000000;">
-            Doctoral positions available:
-            If interested, please reach out to discuss potential projects.
-        </span>
-    </p>
 
       <div class="news-item">
         <div class="news-date">Feb 25</div>
