@@ -75,6 +75,13 @@
     </p>
 
     <div class="news-item">
+        <div class="news-date">May 13</div>
+        <div class="news-link">
+            <a href="/publications/">New paper published</a>
+        </div>
+    </div>
+
+    <div class="news-item">
         <div class="news-date">Apr 15</div>
         <div class="news-link">
             <a href="https://pubs.aip.org/aip/cha/article-abstract/36/4/043120/3387097/Phase-space-volume-preserving-dynamics-for?redirectedFrom=fulltext" target="_blank">Paper published in <em>Chaos</em></a>
