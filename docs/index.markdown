@@ -77,7 +77,7 @@
     <div class="news-item">
         <div class="news-date">May 13</div>
         <div class="news-link">
-            <a href="/publications/">New paper published</a>
+            <a href="https://www.sciencedirect.com/science/article/pii/S0375960126004706" target="_blank">Paper published in <em>Physics Letters A</em></a>
         </div>
     </div>
 
