@@ -116,7 +116,6 @@ weight: 3
         <div><strong>Swetamber Das</strong> and Arghya Dutta (2026)</div>
         <div>
             <a href="https://www.sciencedirect.com/science/article/pii/S0375960126004706" target="_blank" class="publication-link">Phys. Lett. A 589, 131794.</a>
-            <a href="https://doi.org/10.1016/j.physleta.2026.131794" target="_blank" class="publication-link" style="margin-left: 15px;">[doi:10.1016/j.physleta.2026.131794]</a>
             <a href="https://arxiv.org/abs/2510.24100" target="_blank" class="publication-link" style="margin-left: 15px;">[arXiv:2510.24100]</a>
         </div>
     </li>
