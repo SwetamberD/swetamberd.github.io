@@ -115,7 +115,8 @@ weight: 3
         <div><em>Dynamical system analysis of quantum tunneling in an asymmetric double-well potential</em></div>
         <div><strong>Swetamber Das</strong> and Arghya Dutta (2026)</div>
         <div>
-            <a href="https://www.sciencedirect.com/science/article/pii/S0375960126004706" target="_blank" class="publication-link">Physics Letters A (2026).</a>
+            <a href="https://www.sciencedirect.com/science/article/pii/S0375960126004706" target="_blank" class="publication-link">Physics Letters A 589 (2026) 131794.</a>
+            <a href="https://doi.org/10.1016/j.physleta.2026.131794" target="_blank" class="publication-link" style="margin-left: 15px;">[doi:10.1016/j.physleta.2026.131794]</a>
             <a href="https://arxiv.org/abs/2510.24100" target="_blank" class="publication-link" style="margin-left: 15px;">[arXiv:2510.24100]</a>
         </div>
     </li>
