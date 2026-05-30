@@ -114,9 +114,8 @@ weight: 3
     <li style="margin-bottom: 20px; line-height: 1.5;">
         <div><em>Dynamical system analysis of quantum tunneling in an asymmetric double-well potential</em></div>
         <div><strong>Swetamber Das</strong> and Arghya Dutta (2026)</div>
-        <div>Phys. Lett. A 589, 131794.</div>
         <div>
-            <a href="https://www.sciencedirect.com/science/article/pii/S0375960126004706" target="_blank" class="publication-link">Phys. Lett. A</a>
+            <a href="https://www.sciencedirect.com/science/article/pii/S0375960126004706" target="_blank" class="publication-link">Phys. Lett. A 589, 131794.</a>
             <a href="https://doi.org/10.1016/j.physleta.2026.131794" target="_blank" class="publication-link" style="margin-left: 15px;">[doi:10.1016/j.physleta.2026.131794]</a>
             <a href="https://arxiv.org/abs/2510.24100" target="_blank" class="publication-link" style="margin-left: 15px;">[arXiv:2510.24100]</a>
         </div>
@@ -125,9 +124,8 @@ weight: 3
     <li style="margin-bottom: 20px; line-height: 1.5;">
         <div><em>Phase space volume preserving dynamics for non-Hamiltonian systems</em></div>
         <div><strong>Swetamber Das</strong> and Jason R. Green (2026)</div>
-        <div>Chaos 36, 043120 (2026).</div>
         <div>
-            <a href="https://pubs.aip.org/aip/cha/article-abstract/36/4/043120/3387097/Phase-space-volume-preserving-dynamics-for?redirectedFrom=fulltext" target="_blank" class="publication-link">Chaos</a>
+            <a href="https://pubs.aip.org/aip/cha/article-abstract/36/4/043120/3387097/Phase-space-volume-preserving-dynamics-for?redirectedFrom=fulltext" target="_blank" class="publication-link">Chaos 36, 043120.</a>
             <a href="https://arxiv.org/abs/2511.04960" target="_blank" class="publication-link" style="margin-left: 15px;">[arXiv:2511.04960]</a>
         </div>
     </li>
@@ -135,9 +133,8 @@ weight: 3
        <li style="margin-bottom: 20px;">
         <div><em>Phase-space contraction rate for classical mixed states</em></div>
         <div>Mohamed Sahbani, <strong>Swetamber Das</strong>, and Jason R. Green (2025)</div>
-        <div>Phys. Rev. E 111, 054130.</div>
         <div>
-            <a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.111.054130" target="_blank" class="publication-link">Phys. Rev. E</a>
+            <a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.111.054130" target="_blank" class="publication-link">Phys. Rev. E 111, 054130.</a>
             <a href="https://arxiv.org/abs/2502.09361" target="_blank" class="publication-link" style="margin-left: 15px;">[arXiv:2502.09361]</a>
         </div>
     </li>
