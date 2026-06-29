@@ -77,7 +77,7 @@ weight : 4
 
 <!-- Profile: Ms. Aditi Shreevastava -->
 <div class="profile-container" style="display: flex; align-items: flex-start; gap: 20px; max-width: 800px; margin-bottom: 20px;">
-    <img src="{{ site.baseurl }}/images/Aditi.jpeg" alt="Profile Picture"
+    <img src="{{ site.baseurl }}/images/Aditi.png" alt="Profile Picture"
          style="width: 180px; height: 180px; object-fit: cover; object-position: center top; border-radius: 50%; flex-shrink: 0;">
     <div class="profile-text" style="text-align: justify;">
         <strong>Ms. Aditi Shreevastava</strong> is a final-year MSc Physics student at SRM University–AP, who joined the group in March 2026. She is currently working on spacetime dynamics, specifically focusing on chaos bounds and the geometric constraints of geodesic deviations.
