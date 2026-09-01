@@ -63,7 +63,7 @@ dynamics.</p>
 
 <div class="figure-container">
     <img src="{{ site.baseurl }}/images/Lorenz-attractor-speed-limit-400x400.png" alt="Local perturbation growth rate schematic">
-    <p class="figure-caption"><strong>Figure 3:</strong> How quickly can the growth rate of a local perturbation
+    <p class="figure-caption"><strong>Figure 2:</strong> How quickly can the growth rate of a local perturbation
     to a system change over time? <a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.L012016">[Das & Green, PRR (Letter), 2023]</a></p>
 </div>
 
@@ -75,7 +75,7 @@ exponents.</p>
 
 <div class="figure-container">
     <img src="{{ site.baseurl }}/images/Max-speed.png" alt="Entropy production speed limit schematic">
-    <p class="figure-caption"><strong>Figure 4:</strong> What is the minimum entropy production rate that can occur
+    <p class="figure-caption"><strong>Figure 3:</strong> What is the minimum entropy production rate that can occur
     in a given time interval? <a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.109.L052104">[Das & Green, PRE (Letter), 2024]</a></p>
 </div>
 
@@ -95,7 +95,7 @@ at all times and cannot be transiently violated.</p>
 
 <div class="figure-container">
     <img src="{{ site.baseurl }}/images/dynamical-speed-limits.png" alt="Dynamical speed limits schematic">
-    <p class="figure-caption"><strong>Figure 2:</strong> Fundamental constraints on nonequilibrium dynamics, including
+    <p class="figure-caption"><strong>Figure 4:</strong> Fundamental constraints on nonequilibrium dynamics, including
     an inertial ceiling and dynamical bounds on the rate of evolution.</p>
 </div>
 
