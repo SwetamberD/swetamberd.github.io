@@ -27,14 +27,14 @@ weight: 2
 
 <h3><u>Complex Dynamical Systems</u>, <u>Nonequilibrium Statistical Physics</u>, <u>Many-Body Dynamics</u></h3>
 
-<p>My research focuses on fundamental dynamical constraints that govern irreversibility,
-transport, and chaotic growth in nonequilibrium systems. I seek organizing principles,
+<p>Our research focuses on fundamental dynamical constraints that govern irreversibility,
+transport, and chaotic growth in nonequilibrium systems. We seek organizing principles,
 including geometric, inertial, and informational constraints, that determine what a system
 operating out of equilibrium can and cannot do.</p>
 
 <h4 style="margin-top: 20px;">Force Geometry and Irreversibility</h4>
 
-<p>A central direction of my current work is a geometric formulation of nonequilibrium
+<p>A central direction of our current work is a geometric formulation of nonequilibrium
 irreversibility based on the instantaneous organization of forces. In driven overdamped
 systems, externally applied forces and information (entropic) forces associated with the
 evolving probability distribution are separated and compared through a time-dependent
@@ -60,12 +60,6 @@ as well as to underdamped and higher-dimensional dynamics.</p>
 formulation of quantum mechanics. The theory is designed to ensure norm-preserving evolution
 in the tangent space of deterministic systems and applies to both Hamiltonian and dissipative
 dynamics.</p>
-
-<div class="figure-container">
-    <img src="{{ site.baseurl }}/images/dynamical-speed-limits.png" alt="Dynamical speed limits schematic">
-    <p class="figure-caption"><strong>Figure 2:</strong> Fundamental constraints on nonequilibrium dynamics, including
-    an inertial ceiling and dynamical bounds on the rate of evolution.</p>
-</div>
 
 <div class="figure-container">
     <img src="{{ site.baseurl }}/images/Lorenz-attractor-speed-limit-400x400.png" alt="Local perturbation growth rate schematic">
@@ -96,8 +90,14 @@ fluctuations.</p>
 
 <p>A major new direction is the development of intrinsic bounds on chaotic growth in
 classical many-body Hamiltonian systems. By analyzing the instantaneous stability matrix
-of Hamiltonian flows, I derive upper bounds on the largest Lyapunov exponent that apply
+of Hamiltonian flows, we derive upper bounds on the largest Lyapunov exponent that apply
 at all times and cannot be transiently violated.</p>
+
+<div class="figure-container">
+    <img src="{{ site.baseurl }}/images/dynamical-speed-limits.png" alt="Dynamical speed limits schematic">
+    <p class="figure-caption"><strong>Figure 2:</strong> Fundamental constraints on nonequilibrium dynamics, including
+    an inertial ceiling and dynamical bounds on the rate of evolution.</p>
+</div>
 
 <p>These bounds separate geometry-blind contributions, controlled by local curvature, from
 geometry-aware contributions that retain spectral information and collective modes. In
@@ -107,6 +107,6 @@ in classical many-body systems.</p>
 
 <h4 style="margin-top: 20px;">Outlook</h4>
 
-<p>My long-term goal is to develop a coherent and integrative framework for nonequilibrium
+<p>Our long-term goal is to develop a coherent and integrative framework for nonequilibrium
 dynamics that explains how irreversibility, chaos, and transport are shaped by geometric,
 inertial, and informational limits, rather than by detailed microscopic modeling alone.</p>
