@@ -75,6 +75,13 @@
     </p>
 
     <div class="news-item">
+        <div class="news-date">Sep 23</div>
+        <div class="news-link">
+            <a href="#" target="_blank">Ms. Swastika Mongra joined the group for her undergraduate thesis</a>
+        </div>
+    </div>
+
+    <div class="news-item">
         <div class="news-date">May 13</div>
         <div class="news-link">
             <a href="https://www.sciencedirect.com/science/article/pii/S0375960126004706" target="_blank">Paper published in <em>Physics Letters A</em></a>
@@ -107,62 +114,6 @@
         <div class="news-date">Jan 26</div>
         <div class="news-link">
             <a href="#" target="_blank">New preprint available</a>
-        </div>
-    </div>
-
-    <div class="news-item">
-        <div class="news-date">Dec 1</div>
-        <div class="news-link">
-            <a href="#" target="_blank">Mr. Dhanraj Kumar (IISER Mohali) joined for winter internship 2025-2026</a>
-        </div>
-    </div>
-
-    <div class="news-item">
-        <div class="news-date">Nov 10</div>
-        <div class="news-link">
-            <a href="https://arxiv.org/abs/2511.04960" target="_blank">New Preprint available</a>
-        </div>
-    </div>
-
-    <div class="news-item">
-        <div class="news-date">Oct 29</div>
-        <div class="news-link">
-            <a href="https://arxiv.org/abs/2510.24100" target="_blank">New Preprint available</a>
-        </div>
-    </div>
-
-    <div class="news-item">
-        <div class="news-date">Sep 3</div>
-        <div class="news-link">
-            <a href="https://www.mdpi.com/journal/entropy/special_issues/GM01HB4S7Z" target="_blank">Serving as a Guest Editor, Entropy MDPI, 2025 - 2026</a>
-        </div>
-    </div>
-
-    <div class="news-item">
-        <div class="news-date">Sep 1</div>
-        <div class="news-link">
-            <a href="#" target="_blank">Mr. Sai Gagan Mesa joined for his undergraduate thesis</a>
-        </div>
-    </div>
-
-    <div class="news-item">
-        <div class="news-date">May 22</div>
-        <div class="news-link">
-            <a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.111.054130" target="_blank">Paper published in <em>Phys. Rev. E</em></a>
-        </div>
-    </div>
-
-    <div class="news-item">
-        <div class="news-date">March 7</div>
-        <div class="news-link">
-            <a href="https://patents.google.com/" target="_blank">New patent published</a>
-        </div>
-    </div>
-
-    <div class="news-item">
-        <div class="news-date">Feb 13</div>
-        <div class="news-link">
-            <a href="https://arxiv.org/abs/2502.09361" target="_blank">New Preprint available</a>
         </div>
     </div>
 

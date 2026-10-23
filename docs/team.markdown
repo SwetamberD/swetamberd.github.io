@@ -88,3 +88,12 @@ weight : 4
 <div style="max-width: 800px; margin: 20px auto;">
     <hr style="border: 1px solid gray;">
 </div>
+
+<!-- Profile: Ms. Swastika Mongra -->
+<div class="profile-container" style="display: flex; align-items: flex-start; gap: 20px; max-width: 800px; margin-bottom: 20px;">
+    <img src="{{ site.baseurl }}/images/Swastika.jpeg" alt="Profile Picture"
+         style="width: 180px; height: 180px; object-fit: cover; object-position: center top; border-radius: 50%; flex-shrink: 0;">
+    <div class="profile-text" style="text-align: justify;">
+        <strong>Ms. Swastika Mongra</strong> is a senior undergraduate student in Physics at SRM University–AP. She is currently working on a project exploring the fluctuation dynamics of the quantum harmonic oscillator and is interested in understanding quantum phenomena and discovering new areas of physics.
+    </div>
+</div>
