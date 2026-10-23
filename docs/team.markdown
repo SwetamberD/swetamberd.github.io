@@ -94,7 +94,7 @@ weight : 4
     <img src="{{ site.baseurl }}/images/Swastika.jpeg" alt="Profile Picture"
          style="width: 180px; height: 180px; object-fit: cover; object-position: center top; border-radius: 50%; flex-shrink: 0;">
     <div class="profile-text" style="text-align: justify;">
-        <strong>Ms. Swastika Mongra</strong> is a senior undergraduate student in Physics at SRM University–AP, who joined the group in Sep. 2026. Her curiosity began with Schrödinger's cat and developed into an interest in understanding quantum phenomena. She is currently working on a project exploring the fluctuation dynamics of the quantum harmonic oscillator, while remaining open to discovering new areas of physics.
+        <strong>Ms. Swastika Mongra</strong> is a senior undergraduate student in Physics at SRM University–AP, who joined the group in Sep. 2026. Her curiosity in research began with Schrödinger's cat and developed into an interest in understanding quantum phenomena. She is currently working on a project exploring the fluctuation dynamics of the quantum harmonic oscillator, while remaining open to discovering new areas of physics.
     </div>
 </div>
 
